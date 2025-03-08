@@ -256,19 +256,26 @@ Hier sind die allgemein anerkannten Entstehungszeiten:
 | **Lukas** | ca. **70–90 n. Chr.** | Lukas schrieb auch die Apostelgeschichte, die vor 64 n. Chr. endet – daher könnte das Evangelium etwas früher geschrieben worden sein. |
 | **Johannes** | ca. **90–100 n. Chr.** | Deutlicher theologisch reflektierter Stil; Kirchenväter bezeugen spätere Abfassung. |
 
-Begründung für diese Datierungen
-Fehlende Erwähnung der Tempelzerstörung (70 n. Chr.)
+# Begründung für diese Datierungen
+
+1. Fehlende Erwähnung der Tempelzerstörung (70 n. Chr.)
+
 Die Evangelien sprechen über die Prophezeiung der Zerstörung des Jerusalemer Tempels (z. B. Markus 13:1-2).
 Hätten die Evangelien nach 70 n. Chr. entstanden, wäre die tatsächliche Zerstörung vermutlich explizit erwähnt worden.
 Dies deutet darauf hin, dass Markus vor 70 n. Chr. geschrieben wurde und Matthäus/Lukas kurz danach.
-Verwendung von Markus durch Matthäus und Lukas
+
+2. Verwendung von Markus durch Matthäus und Lukas
+
 Die meisten Historiker gehen davon aus, dass Matthäus und Lukas Markus als Vorlage nutzten, was bedeutet, dass Markus als Erstes geschrieben wurde.
 Da Matthäus und Lukas sich in mehreren Punkten an Markus orientieren, müssen sie etwas später geschrieben worden sein.
 
-Frühe Erwähnung in den Kirchenväter-Schriften
+3. Frühe Erwähnung in den Kirchenväter-Schriften
+
 Clemens von Rom (ca. 95 n. Chr.) und Ignatius von Antiochien (ca. 110 n. Chr.) zitieren bereits aus den Evangelien.
 Das zeigt, dass die Evangelien spätestens bis Ende des 1. Jahrhunderts existierten und verbreitet waren.
-Johannes als spätestes Evangelium
+
+4.Johannes als spätestes Evangelium
+
 Die theologische Tiefe des Johannesevangeliums und die Abweichung in Stil und Inhalt von den Synoptikern (Matthäus, Markus, Lukas) deuten auf eine spätere Abfassung hin.
 Irenäus von Lyon (ca. 180 n. Chr.) berichtet, dass Johannes das Evangelium erst im hohen Alter schrieb.
 
