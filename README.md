@@ -126,6 +126,22 @@ Auch frühchristliche Schriften wie die Briefe des Ignatius von Antiochien, das 
 
 Die Fülle an unabhängigen Quellen macht es unmöglich, die Existenz Jesu als reine Erfindung abzutun. Ob man ihn als Sohn Gottes anerkennt oder nicht – dass er als historische Person existierte, ist aus wissenschaftlicher Sicht kaum bestreitbar.
 
+---
+
+# Von der Existenz Jesu zur Glaubwürdigkeit der Evangelien
+
+Es ist schön und gut, dass wir zahlreiche Beweise dafür haben, dass Jesus von Nazareth tatsächlich eine historische Person war. Doch damit ist noch nicht geklärt, ob die Berichte über ihn – insbesondere die Evangelien – auch glaubwürdig sind. Schließlich könnte es sein, dass sich im Laufe der Zeit Legenden und Mythen um seine Person gebildet haben.
+
+Die zentrale Frage lautet also: Inwiefern können wir nachweisen, dass die Evangelien vertrauenswürdige historische Dokumente sind? Sind sie lediglich religiöse Schriften ohne realen Bezug, oder enthalten sie Berichte, die auf echten Ereignissen basieren?
+
+Um dies zu beantworten, müssen wir uns verschiedene Aspekte anschauen:
+1. Die Entstehungszeit der Evangelien: Wurden sie in einer Zeit verfasst, in der Augenzeugen noch lebten und Irrtümer hätten korrigieren können?
+2. Die Übereinstimmung mit historischen und archäologischen Funden: Stützen außerbiblische Quellen die darin beschriebenen Ereignisse?
+3. Die Überlieferungstreue: Wurden die Texte zuverlässig weitergegeben oder im Laufe der Zeit verfälscht?
+4. Die innere Konsistenz: Sind die Berichte in sich schlüssig, oder gibt es Widersprüche?
+5. Die Motive der Verfasser: Hatten die Autoren einen Grund, Geschichten zu erfinden, oder wollten sie einfach die Wahrheit über Jesus bewahren?
+
+All diese Punkte müssen geprüft werden, um eine fundierte Antwort zu finden. In den nächsten Abschnitten werden wir uns genau mit diesen Fragen auseinandersetzen und untersuchen, ob die Evangelien tatsächlich als glaubwürdige historische Dokumente angesehen werden können.
 
 
 
