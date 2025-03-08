@@ -10,11 +10,15 @@ Aus meiner Sicht kann etwas, das innerhalb der Schöpfung existiert, nicht direk
 
 In diesem Buch werde ich auf diese Beweise und Argumente eingehen. Ich bin kein professioneller Schriftsteller, aber mir geht es nicht um kunstvolle Formulierungen, sondern um den Inhalt. Ich hoffe, dass die hier dargelegten Gedanken zum Nachdenken anregen und einen neuen Blick auf den Glauben ermöglichen.
 
+---
+
 # War Jesus eine historische Person? – Ein Blick auf die Beweislage
 
 Die Frage, ob Jesus von Nazareth eine historische Figur war oder eine rein mythische Gestalt, wird immer wieder diskutiert. Während einige behaupten, er sei eine Erfindung, gibt es zahlreiche historische Quellen – sowohl christliche als auch nicht-christliche –, die seine Existenz bezeugen. Diese Quellen stammen aus verschiedenen kulturellen und religiösen Kontexten und liefern starke Indizien dafür, dass Jesus tatsächlich gelebt hat.
 
 Im Folgenden findest du zehn historische Quellen, die seine Existenz belegen:
+
+---
 
 # 1. Flavius Josephus (ca. 37–100 n. Chr.)
    
@@ -69,11 +73,15 @@ Der christliche Gelehrte Origenes widerlegte in seinem Werk Contra Celsum die Ar
 # 10. Eusebius von Caesarea (ca. 260–340 n. Chr.)
 Als einer der ersten Kirchenhistoriker zitierte Eusebius frühere Schriften und überlieferte Informationen über Jesus aus Quellen, die heute verloren sind.
 
+---
+
 Die ersten zehn Quellen – darunter Berichte von römischen Historikern wie Tacitus und Sueton, jüdische Schriften wie der Babylonische Talmud sowie nicht-christliche Philosophen wie Celsus und Lukian – liefern bereits starke Beweise dafür, dass Jesus von Nazareth eine reale historische Figur war. Diese Schriften stammen aus unterschiedlichen kulturellen und religiösen Kontexten, wodurch sie als unabhängige Bestätigungen seiner Existenz gelten.
 
 Doch die Belege enden hier nicht. Neben diesen Quellen existieren weitere antike Schriften, die ebenfalls auf Jesus hinweisen. Besonders bemerkenswert sind frühchristliche und apokryphe Texte, die sich auf Augenzeugenberichte stützen oder aus den ersten Jahrhunderten nach Jesu Leben stammen. Sie zeigen, dass die Überlieferung von Jesus nicht nur eine religiöse Tradition war, sondern auf historische Ereignisse zurückgeht.
 
 Im Folgenden werden elf weitere Quellen vorgestellt, die zusätzlich belegen, dass Jesus keine Erfindung, sondern eine historisch belegbare Person war.
+
+---
 
 # 11. Gnostische Schriften (2. Jahrhundert n. Chr.)
 Einige gnostische Texte, wie das Thomasevangelium, enthalten Aussagen, die auf eine historische Person Jesus hindeuten. Obwohl diese Schriften später entstanden und eine andere theologische Perspektive bieten, beziehen sie sich auf Jesus als reale Figur.​
@@ -107,6 +115,8 @@ Justin der Märtyrer, ein früher christlicher Apologet, verfasste zahlreiche We
 
 # 21. Thallus (ca. 52 n. Chr.)
 Thallus war ein antiker Historiker, dessen Werke heute verloren sind, aber von späteren Autoren zitiert wurden. Der christliche Schriftsteller Julius Africanus (3. Jahrhundert n. Chr.) erwähnt, dass Thallus die ungewöhnliche Finsternis zur Zeit der Kreuzigung Jesu als natürliche Sonnenfinsternis erklärte. Dies zeigt, dass bereits im 1. Jahrhundert nicht-christliche Historiker von Jesus und seinem Tod wussten.
+
+---
 
 Die historische Existenz Jesu von Nazareth ist durch eine Vielzahl von Quellen gut belegt. Sowohl christliche als auch nicht-christliche Berichte aus dem 1. und 2. Jahrhundert bestätigen, dass Jesus keine erfundene Märchenfigur war, sondern tatsächlich gelebt hat.
 
