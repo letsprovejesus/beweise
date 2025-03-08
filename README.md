@@ -52,9 +52,10 @@ Ein syrischer Philosoph schrieb einen Brief an seinen Sohn, in dem er über weis
 
 ```was hatten die Athener für einen Nutzen davon, daß sie Sokrates töteten, was ihnen mit Hungersnot und Pest vergolten wurde? oder die Samier von der Verbrennung des Pythagoras, da ihr ganzes Land in einem Augenblick vom Sand verschüttet wurde? oder die Juden von der Hinrichtung ihres weisen Königs, da ihnen von jener Zeit an das Reich weggenommen war? Denn gerechtermaßen nahm Gott Rache für jene drei Weisen: die Athener starben Hungers; die Samier wurden vom Meere bedeckt, die Juden umgebracht und aus ihrem Reiche vertrieben, leben allenthalben in der Zerstreuung. Sokrates ist nicht tot: wegen Platon, noch Pythagoras: wegen der Herastatue, noch der weise König: wegen der neuen Gesetze, die er gegeben hat```
 
+# 7. Lukian von Samosata (ca. 125–180 n. Chr.)
+Lukian, ein Satiriker, machte sich über Christen lustig, bestätigte aber, dass sie einen gekreuzigten Mann namens Christus verehrten, der neue Lehren eingeführt hatte. Er behauptet:
 
-
-
+```Die Christen verehrten Peregrinus „…nach jenem anderen, den sie immer noch verehren, dem Menschen, der in Palästina hingerichtet wurde, weil er diesen neuen Geheimkult eingeführt hatte.“ Dieser sei der „erste Gesetzgeber“ der Christen, „der sie zu der Überzeugung gebracht hat, dass sie alle untereinander Brüder seien, nachdem sie einmal übergetreten seien und den griechischen Göttern abgeschworen hätten, eben jenen gekreuzigten Sophisten anbeten und nach seinen Geboten leben.```
 
 
 
