@@ -143,5 +143,24 @@ Um dies zu beantworten, müssen wir uns verschiedene Aspekte anschauen:
 
 All diese Punkte müssen geprüft werden, um eine fundierte Antwort zu finden. In den nächsten Abschnitten werden wir uns genau mit diesen Fragen auseinandersetzen und untersuchen, ob die Evangelien tatsächlich als glaubwürdige historische Dokumente angesehen werden können.
 
+---
+
+# Die Evangelien wurden nicht verfälscht
+
+Die große Anzahl an erhaltenen Manuskripten
+
+Eines der stärksten Argumente für die Zuverlässigkeit der Evangelien ist die außergewöhnlich hohe Anzahl erhaltener Handschriften im Vergleich zu anderen antiken Texten.
+
+-Über 5.800 griechische Manuskripte des Neuen Testaments sind erhalten geblieben.
+-Insgesamt existieren über 25.000 Manuskripte, wenn man lateinische, koptische und andere Übersetzungen einbezieht.
+-Zum Vergleich: Von Homers Ilias gibt es nur etwa 1.800 Manuskripte, von Caesars Gallischer Krieg nur 250.
+
+Diese massive Textüberlieferung ermöglicht es, Unterschiede zu identifizieren und Fälschungen auszuschließen.
+
+Quellen:
+Bruce M. Metzger: The Text of the New Testament: Its Transmission, Corruption, and Restoration (Oxford University Press, 2005)
+Daniel B. Wallace: Revisiting the Corruption of the New Testament (Kregel Academic, 2011)
+
+---
 
 
