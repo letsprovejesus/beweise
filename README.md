@@ -1317,58 +1317,64 @@ Die Bibel enthält **über 300 messianische Prophezeiungen**, die sich in Jesus 
 
 ---
 
-### **1. Berechnung der Wahrscheinlichkeit einer einzelnen Prophetie**  
-Eine **konservative Schätzung** für die Wahrscheinlichkeit, dass sich eine einzelne spezifische Prophezeiung zufällig erfüllt, liegt bei **1 zu 100 (1%)**:  
+Alleine über das Leben von Jesus gibt es über 300 Prophezeiungen, die schon erfüllt wurden.
 
-**P(eine Prophetie) = 1/100 = 10⁻²**  
 
----
-
-### **2. Berechnung für 300 Prophezeiungen**  
-Die Wahrscheinlichkeit, dass sich **300 Prophezeiungen gleichzeitig zufällig erfüllen**, ist:  
-
-**P(300 Prophetien) = (10⁻²)³⁰⁰ = 10⁻⁶⁰⁰**  
-
----
-
-### **3. Was bedeutet 10⁻⁶⁰⁰?**  
-Diese Wahrscheinlichkeit ist so unglaublich klein, dass wir sie mit realen Größen vergleichen müssen:  
-
-| **Vergleich** | **Anzahl** |
-|--------------|-----------|
-| **Atome im bekannten Universum** | **≈ 10⁷⁸** |
-| **Wahrscheinlichkeit, dass sich 300 Prophetien zufällig erfüllen** | **10⁻⁶⁰⁰** |
-| **Wahrscheinlichkeit, dass eine Person durch Zufall ein bestimmtes Sandkorn auf der Erde auswählt** | **1 zu 10²³** |
-| **Wahrscheinlichkeit, mit einem Würfel 50-mal hintereinander eine 6 zu würfeln** | **1 zu 10³⁹** |
-
-**Die Wahrscheinlichkeit, dass sich 300 Prophezeiungen zufällig erfüllen, ist kleiner als die Anzahl aller Atome im Universum!**  
-
----
-
-### **4. Veranschaulichung mit Ameisen 🐜**  
-
-1. **Wir bedecken die gesamte Erde mit einer 10 Meter dicken Schicht schwarzer Ameisen.**  
-   - Darunter ist genau **eine rote Ameise**.  
-   - Die Wahrscheinlichkeit, diese **eine rote Ameise zufällig zu finden**, entspricht der Wahrscheinlichkeit, dass sich **78 Prophetien zufällig erfüllen**.  
-
-2. **Jetzt füllen wir das gesamte Universum mit Ameisen.**  
-   - Darunter ist **eine einzige rote Ameise**.  
-   - Die Wahrscheinlichkeit, genau diese zu finden, entspricht der Wahrscheinlichkeit, dass sich **288 Prophetien zufällig erfüllen**.  
-
-3. **Um die Wahrscheinlichkeit von 300 erfüllten Prophetien zu erreichen, müssten wir 10⁶⁰⁰ Universen mit Ameisen füllen!**  
-   - Dann müsste man zufällig die einzige rote Ameise finden.  
-
----
-
-### **5. Fazit**  
-
--**Die Wahrscheinlichkeit, dass sich 300 messianische Prophezeiungen zufällig in einer Person erfüllen, ist praktisch unmöglich.**  
-
--**Die Zahl ist so klein, dass sie weit unterhalb jeder vorstellbaren Zufallswahrscheinlichkeit liegt.**  
-
--**Dies spricht stark dafür, dass die Erfüllung der Prophetien über Jesus kein Zufall war, sondern göttlich gelenkt.**  
-
-**Die Statistik zeigt: Die Erfüllung der Prophezeiungen in Jesus ist ein starkes Argument für die Glaubwürdigkeit der Bibel.**
-
+| Prophezeite Eigenschaft des Messias                                                     | Autor / Ursprung        | Prophezeiung im Alten Testament            | Erfüllung im Neuen Testament                           |
+|-----------------------------------------------------------------------------------------|-------------------------|--------------------------------------------|--------------------------------------------------------|
+| Der Messias wird ein Nachkomme Abrahams sein.                                           | Engel                   | 1. Mo 18,17; Gal 3,7-8                       | Mt 1,1                                               |
+| Der Messias wird ein Nachkomme Isaaks sein.                                             | Engel                   | 1. Mo 17,19                                | Mt 1,2.16                                            |
+| Der Messias wird ein Nachkomme Jakobs sein.                                               | Bileam                  | 4. Mo 24,17                                | Lk 3,23.34                                           |
+| Der Messias stammt aus dem Stamm Juda.                                                  | Jakob                   | 1. Mo 49,10                                | Lk 3,23.33; Mt 1,2                                   |
+| Der Messias wird ein Nachkomme König Davids sein.                                        | Jesaja                  | Jes 9,6 / 11,1                             | Mt 1,1                                               |
+| Der Messias wird von einer Jungfrau geboren werden.                                     | Jesaja                  | Jes 7,14                                   | Mt 1,18                                              |
+| Bei der Geburt wird ein Kindermassaker stattfinden.                                     | Jeremia                 | Jer 31,15                                  | Mt 2,16                                              |
+| Der Geburtsort des Messias wird Bethlehem sein.                                         | Micha                   | Mi 5,1                                     | Mt 2,1                                               |
+| Der Messias wird von Grossen angebetet.                                                 | Salomo                  | Ps 72,10-11                                | Mt 2,2.11                                            |
+| Der Messias wird auch aus Ägypten kommen.                                               | Hosea                   | Hos 11,1                                   | Mt 2,14                                              |
+| Dem Messias wird ein Bote vorausgehen (Johannes der Täufer).                              | Maleachi, Jesaja        | Mal 3,1; Jes 40,3-5                         | Mt 3,1-3; Lk 1,17 u.a.                               |
+| Der Messias wird weise sein.                                                              | Jesaja                  | Jes 11,2; Dan 2,20                          | Lk 2,52                                              |
+| Der Messias wird mitfühlend sein wie ein Hirte für seine Schafe.                          | Jesaja                  | Jes 40,11                                  | Mt 9,36; Hebr 4,15                                   |
+| Der Messias wird sanftmütig sein und wird nicht prahlen.                                  | Jesaja                  | Jes 42,2                                   | Mt 12,15-19                                          |
+| Der Messias wird sündlos sein.                                                            | Jesaja                  | Jes 53,9; Hebr 4,15                          | 1. Petr 2,22                                         |
+| Der Messias wird mit Bildern/Gleichnissen reden.                                        | Asaf                    | Ps 78,2                                    | Lk 13 u.v.m.                                         |
+| Der Messias wird den Geist der Weisheit und der Erkenntnis haben.                         | Jesaja                  | Jes 11,2-4                                 | Mt 13,54; Lk 2,52                                    |
+| Der Messias wird seinen Dienst in Galiläa und am Jordan ausüben.                          | Jesaja                  | Jes 8,23-9,2                               | Mt 4,12-16                                           |
+| Der Messias wird Gebrochene aufrichten.                                                   | Jesaja                  | Jes 61,1-2                                 | Lk 4,18-19                                           |
+| Der Messias wird ein Heiler sein.                                                         | Jesaja                  | Jes 35,5-6; 42,18                           | Mt 11,5                                              |
+| Der Messias wird ein Stein des Anstosses sein.                                            | ev. Mose                | Ps 118,22                                  | 1. Petr 2,7-8                                        |
+| Der Messias wird den Heiden ein Licht sein.                                               | Jesaja                  | Jes 60,3                                   | Apg 13,47-48                                         |
+| Der Messias wird von den Juden abgelehnt werden.                                          | Jesaja                  | Jes 53,3                                   | Joh 1,11                                             |
+| Der Messias wird zurückgewiesen werden.                                                 | Jesaja, David           | Jes 53,3; Ps 2,2                            | Joh 5,43; Lk 17,25                                   |
+| Der Messias wird in Jerusalem auf einem Esel einreiten.                                  | Sacharja                | Sach 9,9                                   | Joh 12,13-14                                         |
+| Das Todesjahr des Messias wird prophezeit.                                                | Daniel                  | Dan 9,25-26                                | Lk 2,1ff                                             |
+| Der Messias wird nicht verstanden werden.                                               | Jesaja                  | Jes 6,9-10                                 | Mt 13,14-15; Joh                                     |
+| Falsche Zeugen werden gegen den Messias auftreten.                                      | David                   | Ps 27,12; Ps 35,11                          | Mt 26,60-61                                          |
+| Der Messias wird von seinen Freunden verlassen werden.                                  | Sacharja                | Sach 13,7                                  | Mk 14,50                                             |
+| Der Messias wird ohne Grund gehasst.                                                      | David                   | Ps 69,5; Ps 109,3-5                          | Joh 15,23-25                                         |
+| Der Messias wird bei der Anklage stumm bleiben.                                           | Jesaja                  | Jes 53,7                                   | Mt 26,62-63                                          |
+| Der Messias wird durch einen Freund verraten.                                             | David                   | Ps 41,10; Mk 14,18-20                        | -                                                  |
+| Der Messias wird für 30 Silberlinge verraten werden.                                      | Sacharja                | Sach 11,12                                 | Mt 26,15                                             |
+| Das Geld des Verrats wird für den Töpfer gebraucht werden.                                | Sacharja                | Sach 11,13                                 | Mt 27,6.7                                            |
+| Der Messias wird geschlagen und angespuckt werden.                                        | Jesaja                  | Jes 50,6                                   | Mk 15,19                                             |
+| Der Messias wird ins Gesicht geschlagen werden.                                           | Micha                   | Mi 4,14                                    | Joh 18,22; Joh 19,3                                  |
+| Der Messias wird mit Bibelworten verspottet und gelästert.                                | David                   | Ps 22,7-9                                  | Mt 27,39-44; Mk 15,29-32                             |
+| Der Messias wird mit Sündern hingerichtet werden.                                         | Jesaja                  | Jes 53,12                                  | Mt 27,38                                             |
+| Hände und Füsse des Messias werden durchbohrt werden.                                     | David                   | Ps 22,17; Sach 12,10                         | Joh 19,37; Joh 20,25; Joh 20,27                       |
+| Man wird um die Kleider des Messias würfeln.                                               | David                   | Ps 22,19                                   | Mk 15,24                                             |
+| Nicht ein Knochen des Messias wird gebrochen werden.                                      | David                   | Ps 34,21                                   | Joh 19,33                                            |
+| Der Messias wird Galle und Essig zu trinken bekommen.                                    | David                   | Ps 69,22                                   | Joh 19,29                                            |
+| Der Messias wird für seine Feinde beten.                                                  | David                   | Ps 109,4                                   | Jes 53,12; Lk 23,34                                  |
+| Der Messias wird Durst leiden während seiner Hinrichtung.                               | David                   | Ps 22,16                                   | Joh 19,28                                            |
+| Die Seite des Messias wird von einem Speer durchbohrt werden.                             | Sacharia                | Sach 12,10                                 | Joh 19,34                                            |
+| Der Messias wird drei Tage im Dunkeln der Erde sein.                                     | Jona                    | Jona 2                                     | Mt 12,40                                             |
+| Der Messias wird stellvertretend leiden.                                                 | Jesaja                  | Jes 53,4-5                                 | Mt 8,16-17; Röm 4,25; 1. Kor 15,3                     |
+| Der Messias wird im Grab eines Reichen begraben werden.                                  | Jesaja                  | Jes 53,9                                   | Mt 27,57-60                                          |
+| Am Tage wird es finster werden.                                                           | Amos                    | Am 5,20; Am 8,9                             | Mt 27,45                                             |
+| Der Messias wird vom Tode zurückgeholt werden.                                            | David                   | Ps 30,4                                    | Joh 21                                               |
+| Der Messias wird vom Tode auferweckt werden.                                               | David                   | Ps 16,10                                   | Mt 16,21; Mt 28,6; Lk 24,36-48                        |
+| Der Messias wird auffahren in die Höhe.                                                   | David                   | Ps 68,19                                   | Lk 24,51                                             |
+| Der Messias wird sich zur Rechten Gottes setzen.                                         | David                   | Ps 110,1                                   | Apg 7,56; Mt 22,44                                   |
+| Der Messias war und ist der Sohn Gottes.                                                  | David                   | Ps 2,7; Spr 30,4                            | Mt 3,17; Lk 1,32                                     |
 
 
