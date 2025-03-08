@@ -22,6 +22,9 @@ Josephus war ein jüdischer Historiker, der in seinem Werk Jüdische Altertümer
 
 ```Um diese Zeit lebte Jesus, ein weiser Mann, wenn man ihn überhaupt einen Menschen nennen darf. Er war nämlich der Vollbringer ganz unglaublicher Taten und der Lehrer aller Menschen, die mit Freuden die Wahrheit aufnahmen. So zog er viele Juden und auch viele Heiden an sich. Dieser war der Christus. Und obgleich ihn Pilatus auf Betreiben der Vornehmen unseres Volkes zum Kreuzestod verurteilte, wurden doch seine früheren Anhänger ihm nicht untreu. Denn er erschien ihnen am dritten Tage wieder lebend, wie gottgesandte Propheten dies und tausend andere wunderbare Dinge von ihm vorherverkündet hatten. Und noch bis auf den heutigen Tag besteht das Volk der Christen, die sich nach ihm nennen, fort.```
 
+Flavius Josephus (Ant. 20,200) erwähnt ebenfalls die Hinrichtung des Jakobus (62) unter dem sadduzäischen Hohenpriester Hannas II.:
+```Er versammelte daher den Hohen Rat zum Gericht und stellte vor diesen den Bruder des Jesus, der Christus genannt wird, mit Namen Jakobus, sowie noch einige andere, die er der Gesetzesübertretung anklagte und zur Steinigung führen ließ.```
+
 # 2. Tacitus (ca. 56–120 n. Chr.)
 
 Der römische Historiker Tacitus erwähnt Jesus in seinen Annalen (ca. 116 n. Chr.), als er über die Christenverfolgung unter Kaiser Nero spricht. Er schreibt, dass „Christus“ unter Pontius Pilatus hingerichtet wurde – eine wertvolle unabhängige Bestätigung der Evangelienberichte. Tacitus schreibt folgendes:
