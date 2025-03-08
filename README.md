@@ -57,6 +57,19 @@ Lukian, ein Satiriker, machte sich über Christen lustig, bestätigte aber, dass
 
 ```Die Christen verehrten Peregrinus „…nach jenem anderen, den sie immer noch verehren, dem Menschen, der in Palästina hingerichtet wurde, weil er diesen neuen Geheimkult eingeführt hatte.“ Dieser sei der „erste Gesetzgeber“ der Christen, „der sie zu der Überzeugung gebracht hat, dass sie alle untereinander Brüder seien, nachdem sie einmal übergetreten seien und den griechischen Göttern abgeschworen hätten, eben jenen gekreuzigten Sophisten anbeten und nach seinen Geboten leben.```
 
+# 8. Celsus (ca. 175 n. Chr.)
+Celsus war ein griechischer Philosoph und Gegner des Christentums. Er versuchte, Jesus als uneheliches Kind eines römischen Soldaten darzustellen, bestätigte aber indirekt seine Existenz.
+
+# 9. Origenes (ca. 185–254 n. Chr.)
+Der christliche Gelehrte Origenes widerlegte in seinem Werk Contra Celsum die Argumente des Celsus und verwies auf Jesus als eine reale Person, die tatsächlich gelebt hatte.
+
+# 10. Eusebius von Caesarea (ca. 260–340 n. Chr.)
+Als einer der ersten Kirchenhistoriker zitierte Eusebius frühere Schriften und überlieferte Informationen über Jesus aus Quellen, die heute verloren sind.
+
+
+
+
+
 
 
 
