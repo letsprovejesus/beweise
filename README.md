@@ -1198,7 +1198,7 @@ Die Wahrscheinlichkeit, aus dieser Badewanne zufällig die rote Ameise zu ziehen
 
 Die Wahrscheinlichkeit, mit verbundenen Augen irgendwo in Portugal zu landen und zufällig die einzige rote Ameise herauszuziehen, entspricht der Wahrscheinlichkeit, dass sich 65 Prophetien zufällig erfüllt haben.
 
-3.Die gesamte Erde mit einer 10 Meter dicken Ameisenschicht bedeckt
+3. Die gesamte Erde mit einer 10 Meter dicken Ameisenschicht bedeckt
 
 Darunter befindet sich eine einzige rote Ameise. Die Wahrscheinlichkeit, sie zufällig herauszuziehen, entspricht der Wahrscheinlichkeit, dass sich 78 Prophetien zufällig erfüllt haben.
 
@@ -1210,5 +1210,97 @@ Doch es gibt 3.268 erfüllte Prophetien in der Bibel!
 
 Um diese Wahrscheinlichkeit darzustellen, müsste man 5 × 10⁸⁷⁶ Universen mit Ameisen füllen.
 
+---
 
+# Wurden die biblischen Prophezeiungen erst nach ihrem Eintreten niedergeschrieben? – Ein Blick auf die Qumran-Rollen
 
+Eine der häufigsten Kritiken an biblischen Prophetien ist die Behauptung, dass sie möglicherweise erst nach dem Eintreten der vorhergesagten Ereignisse aufgeschrieben wurden. Wenn dies zuträfe, wäre ihr Wert als echte Vorhersagen stark reduziert. Doch durch archäologische Funde – insbesondere die Qumran-Rollen (auch bekannt als die Schriftrollen vom Toten Meer) – lässt sich nachweisen, dass viele biblische Prophetien Jahrhunderte vor ihrer Erfüllung niedergeschrieben wurden.
+
+---
+
+# Was sind die Qumran-Rollen?
+
+Die Qumran-Rollen wurden zwischen 1947 und 1956 in Höhlen nahe des Toten Meeres entdeckt. Diese Handschriften sind über 2.000 Jahre alt und enthalten unter anderem Teile aller alttestamentlichen Bücher (außer Esther).
+
+Besonders bedeutend ist der Fund des Jesaja-Buches, das fast vollständig erhalten ist.
+
+Dieses Buch enthält zahlreiche Prophezeiungen über den Messias, die sich später in Jesus erfüllten.
+Die Handschrift wurde auf ca. 125 v. Chr. datiert – lange vor der Geburt Jesu.
+
+Bedeutung der Qumran-Rollen:
+
+Sie beweisen, dass die alttestamentlichen Texte mit ihren Prophetien nicht erst nachträglich verfasst wurden.
+Der Text des Buches Jesaja ist fast identisch mit späteren Handschriften – das zeigt, dass der biblische Text über Jahrhunderte hinweg zuverlässig überliefert wurde.
+
+Quellen:
+
+Millar Burrows: The Dead Sea Scrolls (1955)
+Emanuel Tov: Textual Criticism of the Hebrew Bible (1992)
+
+---
+
+# Prophezeiungen über Jesus – Nachweis durch die Qumran-Rollen
+
+Eines der stärksten Argumente für die göttliche Inspiration der Bibel ist die detaillierte Vorhersage über das Leben, den Tod und die Auferstehung Jesu im Alten Testament. Kritiker könnten behaupten, dass diese Texte erst nach dem Leben Jesu geschrieben wurden – doch die Qumran-Rollen widerlegen dies.
+
+Beispiele für messianische Prophetien aus Jesaja (ca. 700 v. Chr.)
+-Jesaja 7:14 – Der Messias wird von einer Jungfrau geboren:
+
+„Darum wird der Herr selbst euch ein Zeichen geben: Siehe, die Jungfrau wird schwanger werden und einen Sohn gebären und wird ihm den Namen Immanuel geben.“
+
+✅ Erfüllt in: Matthäus 1:22-23
+
+-Jesaja 9:6 – Der Messias wird göttlich sein:
+
+„Denn uns ist ein Kind geboren, ein Sohn ist uns gegeben, und die Herrschaft ruht auf seiner Schulter; und er heißt: Wunder-Rat, Gott-Held, Ewig-Vater, Friede-Fürst.“
+
+✅ Erfüllt in: Lukas 1:32-33
+
+-Jesaja 53:3-5 – Der Messias wird leiden und für die Sünden der Menschen sterben:
+„Er war verachtet und von den Menschen verlassen, ein Mann der Schmerzen und mit Krankheit vertraut. […] Doch er wurde um unserer Übertretungen willen durchbohrt, wegen unserer Missetaten zerschlagen. Die Strafe lag auf ihm, damit wir Frieden hätten, und durch seine Wunden sind wir geheilt.“
+
+✅ Erfüllt in: Johannes 19:1-37
+
+Nachweis:
+
+Das komplette Jesaja-Buch aus Qumran (ca. 125 v. Chr.) enthält diese Verse unverändert.
+Dies beweist, dass die Prophezeiungen nachweislich lange vor Jesu Geburt existierten.
+
+---
+
+3. Weitere Prophezeiungen, die lange vorher geschrieben wurden
+
+A) Die Zerstörung des Tempels (Daniel 9:26, ca. 530 v. Chr.)
+
+„Nach den 62 Wochen wird der Gesalbte ausgerottet werden […] und das Volk des kommenden Fürsten wird die Stadt und das Heiligtum zerstören.“
+
+✅ Erfüllt in: 70 n. Chr., als die Römer Jerusalem und den Tempel zerstörten.
+
+Qumran-Funde bestätigen die Existenz des Buches Daniel lange vor 70 n. Chr.
+
+B) Die Rückkehr der Juden nach Israel (Hesekiel 36:24, ca. 590 v. Chr.)
+
+„Denn ich werde euch aus den Heidenvölkern holen und euch aus allen Ländern sammeln und euch in euer Land bringen.“
+
+✅ Erfüllt in: 1948, als Israel als Staat neu gegründet wurde.
+
+Hesekiel-Texte wurden in Qumran gefunden und sind älter als 1948.
+
+Quellen:
+
+Geza Vermes: The Complete Dead Sea Scrolls in English (1997)
+John Collins: The Dead Sea Scrolls: A Biography (2012)
+
+---
+
+# Was bedeutet das für die Glaubwürdigkeit der Bibel?
+
+-Die Qumran-Rollen beweisen, dass viele biblische Prophetien lange vor ihrem Eintreffen existierten.
+
+-Die Jesaja-Rolle bestätigt, dass messianische Prophetien nicht nach Jesu Leben erfunden wurden.
+
+-Die prophetische Genauigkeit der Bibel wird durch archäologische Funde gestützt.
+
+-Kein anderes religiöses Buch kann eine vergleichbare Anzahl an erfüllten Vorhersagen vorweisen.
+
+Die Bibel ist nicht nur ein historisches Dokument, sondern enthält präzise Vorhersagen, die sich erfüllt haben – ein starkes Argument für ihre göttliche Inspiration.
