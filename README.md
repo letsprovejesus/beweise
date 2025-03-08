@@ -1311,31 +1311,35 @@ Die Bibel ist nicht nur ein historisches Dokument, sondern enthält präzise Vor
 
 Die Bibel enthält **über 300 messianische Prophezeiungen**, die sich in Jesus Christus erfüllt haben. Die Wahrscheinlichkeit, dass sich alle diese Vorhersagen **zufällig** erfüllen, ist **astronomisch gering**.  
 
-#### **1. Berechnung der Wahrscheinlichkeit einer einzelnen Prophetie**  
-Eine **konservative Schätzung** für die Wahrscheinlichkeit, dass sich eine einzelne spezifische Prophezeiung zufällig erfüllt, liegt bei **1 zu 100 (1%)**:  
+### **Wie hoch ist die Wahrscheinlichkeit, dass sich 300 Prophezeiungen über Jesus zufällig erfüllen?**  
 
-\[
-P_{\text{eine Prophetie}} = \frac{1}{100} = 10^{-2}
-\]
-
-#### **2. Berechnung für 300 Prophezeiungen**  
-Die Wahrscheinlichkeit, dass sich **300 Prophezeiungen gleichzeitig zufällig erfüllen**, ist:  
-
-\[
-P_{\text{300 Prophetien}} = (10^{-2})^{300} = 10^{-600}
-\]
+Die Bibel enthält **über 300 messianische Prophezeiungen**, die sich in Jesus Christus erfüllt haben. Die Wahrscheinlichkeit, dass sich alle diese Vorhersagen **zufällig** erfüllen, ist **astronomisch gering**.  
 
 ---
 
-### **3. Was bedeutet \(10^{-600}\)?**  
+### **1. Berechnung der Wahrscheinlichkeit einer einzelnen Prophetie**  
+Eine **konservative Schätzung** für die Wahrscheinlichkeit, dass sich eine einzelne spezifische Prophezeiung zufällig erfüllt, liegt bei **1 zu 100 (1%)**:  
+
+**P(eine Prophetie) = 1/100 = 10⁻²**  
+
+---
+
+### **2. Berechnung für 300 Prophezeiungen**  
+Die Wahrscheinlichkeit, dass sich **300 Prophezeiungen gleichzeitig zufällig erfüllen**, ist:  
+
+**P(300 Prophetien) = (10⁻²)³⁰⁰ = 10⁻⁶⁰⁰**  
+
+---
+
+### **3. Was bedeutet 10⁻⁶⁰⁰?**  
 Diese Wahrscheinlichkeit ist so unglaublich klein, dass wir sie mit realen Größen vergleichen müssen:  
 
 | **Vergleich** | **Anzahl** |
 |--------------|-----------|
-| **Atome im bekannten Universum** | \( \approx 10^{78} \) |
-| **Wahrscheinlichkeit, dass sich 300 Prophetien zufällig erfüllen** | \( 10^{-600} \) |
-| **Wahrscheinlichkeit, dass eine Person durch Zufall einen bestimmten Sandkorn auf der Erde auswählt** | \( 1 \) zu \( 10^{23} \) |
-| **Wahrscheinlichkeit, mit einem Würfel 50-mal hintereinander eine 6 zu würfeln** | \( 1 \) zu \( 10^{39} \) |
+| **Atome im bekannten Universum** | **≈ 10⁷⁸** |
+| **Wahrscheinlichkeit, dass sich 300 Prophetien zufällig erfüllen** | **10⁻⁶⁰⁰** |
+| **Wahrscheinlichkeit, dass eine Person durch Zufall ein bestimmtes Sandkorn auf der Erde auswählt** | **1 zu 10²³** |
+| **Wahrscheinlichkeit, mit einem Würfel 50-mal hintereinander eine 6 zu würfeln** | **1 zu 10³⁹** |
 
 **Die Wahrscheinlichkeit, dass sich 300 Prophezeiungen zufällig erfüllen, ist kleiner als die Anzahl aller Atome im Universum!**  
 
@@ -1351,7 +1355,7 @@ Diese Wahrscheinlichkeit ist so unglaublich klein, dass wir sie mit realen Grö�
    - Darunter ist **eine einzige rote Ameise**.  
    - Die Wahrscheinlichkeit, genau diese zu finden, entspricht der Wahrscheinlichkeit, dass sich **288 Prophetien zufällig erfüllen**.  
 
-3. **Um die Wahrscheinlichkeit von 300 erfüllten Prophetien zu erreichen, müssten wir \( 10^{600} \) Universen mit Ameisen füllen!**  
+3. **Um die Wahrscheinlichkeit von 300 erfüllten Prophetien zu erreichen, müssten wir 10⁶⁰⁰ Universen mit Ameisen füllen!**  
    - Dann müsste man zufällig die einzige rote Ameise finden.  
 
 ---
@@ -1364,8 +1368,7 @@ Diese Wahrscheinlichkeit ist so unglaublich klein, dass wir sie mit realen Grö�
 
 -**Dies spricht stark dafür, dass die Erfüllung der Prophetien über Jesus kein Zufall war, sondern göttlich gelenkt.**  
 
-**Die Statistik zeigt: Die Erfüllung der Prophezeiungen in Jesus ist ein starkes Argument für die Glaubwürdigkeit der Bibel.**  
+**Die Statistik zeigt: Die Erfüllung der Prophezeiungen in Jesus ist ein starkes Argument für die Glaubwürdigkeit der Bibel.**
 
- 
 
 
