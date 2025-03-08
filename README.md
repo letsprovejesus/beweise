@@ -145,9 +145,7 @@ All diese Punkte müssen geprüft werden, um eine fundierte Antwort zu finden. I
 
 ---
 
-# Die Evangelien wurden nicht verfälscht
-
-Die große Anzahl an erhaltenen Manuskripten
+# Die große Anzahl an erhaltenen Manuskripten
 
 Eines der stärksten Argumente für die Zuverlässigkeit der Evangelien ist die außergewöhnlich hohe Anzahl erhaltener Handschriften im Vergleich zu anderen antiken Texten.
 
@@ -163,4 +161,15 @@ Daniel B. Wallace: Revisiting the Corruption of the New Testament (Kregel Academ
 
 ---
 
+# Der geringe Abstand zwischen Original und ältesten Manuskripten
 
+Ein weiterer Faktor für die Texttreue ist der kurze Zeitraum zwischen der Abfassung der Evangelien und den ältesten erhaltenen Kopien.
+
+-Das älteste Manuskriptfragment des Neuen Testaments, der Papyrus P52 (Johannesevangelium), stammt aus ca. 125 n. Chr. – nur wenige Jahrzehnte nach der ursprünglichen Niederschrift.
+-Viele andere Manuskripte stammen aus dem 2. und 3. Jahrhundert, was bedeutet, dass es nur eine geringe Zeitspanne für Veränderungen oder Fälschungen gab.
+
+Zum Vergleich: Bei anderen antiken Schriften beträgt die Lücke oft über 800 Jahre.
+
+Quellen:
+Philip Comfort: The Text of the Earliest New Testament Greek Manuscripts (Tyndale House, 1992)
+Craig Blomberg: Can We Still Believe the Bible? (Brazos Press, 2014)
