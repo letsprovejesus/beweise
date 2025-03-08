@@ -333,6 +333,99 @@ Matthäus muss also vor dieser Zerstörung geschrien haben. Das belegen auch all
 
 Denn er suchte durch die Schriften zu ersetzen, was diejenigen, von denen er ging, durch seinen Weggang verloren hatten. Die Information in diesem Satz ist eindeutig. Matthäus schrieb sein Evangelium, bevor er die Provinz Judäa verließ, um auf eine Auslandsmission zu gehen. Nun stellt sich die Frage, wann verließen die Apostel Jerusalem, um zu anderen Völkern zu gehen? Wir können das nicht genau bestimmen, aber wir wissen gemäß der Apostelgeschichte, dass die Apostel spätestens im Jahr 57 n. Chr. nicht mehr in Jerusalem waren. Denn in diesem Jahr kam Paulus nach Jerusalem und traf dort keinen einzigen der Apostel. Dass das Matthäusevangelium vor dem Jahr 70 n. Chr. geschrieben wurde, sagt auch ein anderer christlicher Gelehrter namens Irenäus. Dieser Mann schrieb im Jahr 180 n. Chr. Folgendes: Matthäus veröffentlichte ein Evangeliumsdokument unter den Hebräern in ihrem eigenen Dialekt, als Petrus und Paulus in Rom missionierten. Wann war das? Wir wissen, dass Petrus und Paulus spätestens im Jahr 67 n. Chr. starben. Also muss das Evangelium gemäß Irenäus irgendwann davor geschrieben worden sein.
 
+---
+
+# Die Geburt Jesu – Wann wurde Jesus geboren?
+
+Die meisten Historiker gehen davon aus, dass Jesus nicht im Jahr 0 geboren wurde, sondern einige Jahre zuvor – vermutlich zwischen 7 und 4 v. Chr.. Dies basiert auf mehreren Anhaltspunkten:
+
+a) Die Herrschaft von König Herodes († 4 v. Chr.)
+
+-Die Evangelien berichten, dass Jesus während der Herrschaft von König Herodes dem Großen geboren wurde (Matthäus 2:1, Lukas 1:5).
+-Historische Quellen (z. B. Flavius Josephus) bestätigen, dass Herodes im Jahr 4 v. Chr. starb.
+-Da Herodes in Matthäus 2 die Tötung der Kinder bis 2 Jahre alt anordnete, nehmen einige Historiker an, dass Jesus zwischen 7 und 4 v. Chr. geboren wurde.
+
+b) Die Volkszählung unter Quirinius (Lukas 2:2)
+
+-Lukas erwähnt eine Volkszählung während der Statthalterschaft des Quirinius in Syrien.
+-Diese Zählung wird oft mit der im Jahr 6 n. Chr. gleichgesetzt, doch einige Historiker argumentieren, dass Quirinius bereits zuvor eine Rolle spielte.
+-Manche sehen dies als Widerspruch, doch es gibt Hinweise, dass es bereits vor 6 n. Chr. eine administrative Erhebung gegeben haben könnte.
+
+c) Die Sternen-Konstellationen (Astronomische Hinweise)
+-Manche Forscher glauben, dass der „Stern von Bethlehem“ eine astronomische Erscheinung war.
+-Eine Konjunktion von Jupiter und Saturn fand 7 v. Chr. statt, eine mögliche Erklärung für den „Stern“.
+
+Schlussfolgerung:
+
+Jesus wurde höchstwahrscheinlich zwischen 7 und 4 v. Chr. geboren, da er noch unter König Herodes lebte.
+Die exakte Jahreszahl bleibt unklar, aber eine Geburt um 5–4 v. Chr. ist am wahrscheinlichsten.
+
+---
+
+# Wann begann Jesus zu predigen?
+
+Die Evangelien berichten, dass Jesus etwa 30 Jahre alt war, als er sein öffentliches Wirken begann (Lukas 3:23).
+
+a) Verbindung mit Johannes dem Täufer
+
+-Das Lukasevangelium gibt an, dass Johannes der Täufer sein Wirken im 15. Regierungsjahr des Kaisers Tiberius begann (Lukas 3:1-2).
+-Tiberius wurde 14 n. Chr. Kaiser, also wäre das 15. Jahr ca. 28–29 n. Chr..
+-Da Jesus kurz nach Johannes dem Täufer auftrat, muss sein Predigtbeginn ca. 28–30 n. Chr. gewesen sein.
+
+b) Jesu Alter
+
+-Wenn Jesus um 4 v. Chr. geboren wurde und „etwa 30 Jahre alt“ war, als er zu predigen begann (Lukas 3:23), dann wäre das um 26–30 n. Chr..
+-Viele Historiker setzen den Beginn seines Wirkens auf ca. 27–30 n. Chr..
+
+Schlussfolgerung:
+
+Jesus begann wahrscheinlich sein öffentliches Wirken um 28–30 n. Chr., als er etwa 30 Jahre alt war.
+
+---
+
+# Wann wurde Jesus gekreuzigt?
+
+Die Kreuzigung Jesu ist eines der am besten belegten Ereignisse des antiken Christentums. Sie fand während der Herrschaft des römischen Statthalters Pontius Pilatus (26–36 n. Chr.) statt.
+
+a) Die jüdischen Feste als Anhaltspunkt
+
+-Die Evangelien berichten, dass Jesus an einem Pessach-Fest gekreuzigt wurde (Matthäus 26:2, Markus 14:1, Lukas 22:1, Johannes 18:28).
+-Dies bedeutet, dass er an einem Freitag (der Rüsttag zum Sabbat) starb.
+
+b) Astronomische Berechnungen der Pessach-Freitage
+
+-Pessach fällt am 14. Nisan (nach jüdischem Kalender).
+-Historische Berechnungen zeigen, dass der 14. Nisan an einem Freitag in zwei möglichen Jahren lag:
+-7. April 30 n. Chr.
+-3. April 33 n. Chr.
+
+c) Dauer von Jesu Wirken laut den Evangelien
+
+-Das Johannesevangelium erwähnt drei Pessachfeste während Jesu Wirken.
+-Dies deutet darauf hin, dass sein öffentliches Wirken mindestens 2–3 Jahre dauerte.
+-Wenn sein Dienst um 28–30 n. Chr. begann, passt die Kreuzigung entweder zu 30 oder 33 n. Chr..
+
+Schlussfolgerung:
+
+Die wahrscheinlichsten Daten für die Kreuzigung sind 30 n. Chr. oder 33 n. Chr..
+
+Viele Historiker favorisieren den 3. April 33 n. Chr., basierend auf astronomischen Berechnungen und der Dauer seines Wirkens.
+
+---
+
+Fassen wir dies nochmal in einer Tabelle zusammen:
+
+| **Ereignis**           | **Wahrscheinliches Datum** | **Begründung** |
+|------------------------|--------------------------|---------------------------------------------|
+| **Geburt Jesu**       | 7–4 v. Chr.              | Geburt unter Herodes († 4 v. Chr.), astronomische Hinweise |
+| **Beginn seines Wirkens** | 28–30 n. Chr.         | Verbindung mit Johannes dem Täufer und Tiberius’ 15. Regierungsjahr |
+| **Kreuzigung Jesu**   | 30 oder 33 n. Chr.       | Pessach-Fest, Pilatus als Statthalter, astronomische Berechnungen |
+
+---
+
+
+
+
 
 
 
