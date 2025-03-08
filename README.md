@@ -1,3 +1,11 @@
 # Beweise für die Bibel
 
-Hallo Leute. Dies ist ein Buch von mir, wo ich euch fundierte Beweise vorstellen möchte, dass die Bibel ein glaubwürdiges Buch und kein Märchenbuch ist. Ich werde euch am Anfang erst über meine Gründe erzählen, wieso ich dies überhaupt schreibe. Immer wenn ich mit Menschen über den Glauben rede, wird dieser oft so hingestellt, als wäre dieser irrational und überhaupt nicht wissenschaftlich oder argumentativ nachvollziehen. Doch dies ist meiner Meinung nach in keinster Weise der Fall. Es ist logisch, dass man Gott nicht 100 prozentig beweisen kann. Weil wie sollte dieser Beweis aussehen? Aus meiner Sicht kann etwas innerhalb der Schöpfung nicht etwas außerhalb beweisen, weil wir uns nur innerhalb dieses Universums befinden. Aber das heißt nicht, dass es keine Argumente für den Glauben geben kann, im Gegenteil. Dort gibt es wirklich zahlreiche. Es gibt sogar so viele Indizien, dass es meiner Meinung nach nahezu nicht mehr abstreitbar ist. Aber diese Punkte werde ich hier noch bringen. Verzeiht mir, dass ich kein professioneller Schriftsteller bin, mir geht es um den Inhalt, nicht um schöne Formulierungen oder Ausschmückungen. 
+Hallo zusammen,
+
+dieses Buch habe ich geschrieben, um fundierte Beweise dafür zu präsentieren, dass die Bibel ein glaubwürdiges Werk und keineswegs ein Märchenbuch ist. Zu Beginn möchte ich erläutern, warum ich mich überhaupt dazu entschlossen habe, dieses Buch zu schreiben.
+
+In Gesprächen über den Glauben begegne ich oft der Ansicht, dass dieser irrational sei und weder wissenschaftlich noch argumentativ nachvollziehbar. Doch ich bin überzeugt, dass genau das nicht der Fall ist. Natürlich kann man Gott nicht zu 100 Prozent beweisen – aber wie sollte ein solcher Beweis überhaupt aussehen?
+
+Aus meiner Sicht kann etwas, das innerhalb der Schöpfung existiert, nicht direkt das belegen, was außerhalb davon liegt. Wir befinden uns innerhalb dieses Universums und sind an seine Grenzen gebunden. Doch das bedeutet keineswegs, dass es keine überzeugenden Argumente für den Glauben gibt – im Gegenteil. Es existieren so viele Hinweise, dass es mir nahezu unmöglich erscheint, sie zu ignorieren.
+
+In diesem Buch werde ich auf diese Beweise und Argumente eingehen. Ich bin kein professioneller Schriftsteller, aber mir geht es nicht um kunstvolle Formulierungen, sondern um den Inhalt. Ich hoffe, dass die hier dargelegten Gedanken zum Nachdenken anregen und einen neuen Blick auf den Glauben ermöglichen.
