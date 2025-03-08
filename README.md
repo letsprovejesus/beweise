@@ -218,3 +218,26 @@ Quellen:
 John McRay: Archaeology and the New Testament (Baker Academic, 1991)
 Craig Evans: Jesus and His World: The Archaeological Evidence (Westminster John Knox Press, 2012)
 
+---
+
+# Kein Anreiz zur Fälschung
+
+Wären die Evangelien manipuliert worden, müsste man sich fragen: Wer hätte davon profitiert?
+
+-Die frühen Christen wurden verfolgt – warum hätten sie eine Fälschung erfinden, für die sie bereit waren zu sterben?
+-Anders als bei politischen oder religiösen Manipulationen gibt es keine Hinweise, dass die Evangelien nachträglich so verändert wurden, dass sie Machtinteressen dienten.
+
+Quellen:
+Gary Habermas & Michael Licona: The Case for the Resurrection of Jesus (Kregel Publications, 2004)
+Richard Bauckham: Jesus and the Eyewitnesses (Eerdmans, 2006)
+
+---
+
+# Fazit: Die Evangelien sind zuverlässig überliefert
+
+Alle diese Beweise – die hohe Anzahl an Manuskripten, die geringe Zeitspanne zwischen Original und Kopien, die Übereinstimmung der Texte, die frühen Zitate der Kirchenväter und archäologische Funde – zeigen, dass die Evangelien nicht verfälscht wurden.
+
+Während Kritiker oft behaupten, dass die Evangelien verändert worden sein könnten, gibt es keinen historischen oder textlichen Beweis für eine solche Manipulation. Im Gegenteil: Die Evangelien sind die am besten überlieferten Schriften der Antike und können als vertrauenswürdige historische Quellen angesehen werden.
+
+Die Schlussfolgerung: Wer die Evangelien als gefälscht oder manipuliert betrachtet, müsste dieselben Maßstäbe auf alle anderen antiken Schriften anwenden – und das würde bedeuten, dass wir fast nichts über die Geschichte der Antike wissen könnten.
+
