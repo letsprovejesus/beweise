@@ -9,3 +9,16 @@ In Gesprächen über den Glauben begegne ich oft der Ansicht, dass dieser irrati
 Aus meiner Sicht kann etwas, das innerhalb der Schöpfung existiert, nicht direkt das belegen, was außerhalb davon liegt. Wir befinden uns innerhalb dieses Universums und sind an seine Grenzen gebunden. Doch das bedeutet keineswegs, dass es keine überzeugenden Argumente für den Glauben gibt – im Gegenteil. Es existieren so viele Hinweise, dass es mir nahezu unmöglich erscheint, sie zu ignorieren.
 
 In diesem Buch werde ich auf diese Beweise und Argumente eingehen. Ich bin kein professioneller Schriftsteller, aber mir geht es nicht um kunstvolle Formulierungen, sondern um den Inhalt. Ich hoffe, dass die hier dargelegten Gedanken zum Nachdenken anregen und einen neuen Blick auf den Glauben ermöglichen.
+
+# War Jesus eine historische Person? – Ein Blick auf die Beweislage
+
+Die Frage, ob Jesus von Nazareth eine historische Figur war oder eine rein mythische Gestalt, wird immer wieder diskutiert. Während einige behaupten, er sei eine Erfindung, gibt es zahlreiche historische Quellen – sowohl christliche als auch nicht-christliche –, die seine Existenz bezeugen. Diese Quellen stammen aus verschiedenen kulturellen und religiösen Kontexten und liefern starke Indizien dafür, dass Jesus tatsächlich gelebt hat.
+
+Im Folgenden findest du zehn historische Quellen, die seine Existenz belegen:
+
+# 1. Flavius Josephus (ca. 37–100 n. Chr.)
+   
+Josephus war ein jüdischer Historiker, der in seinem Werk Jüdische Altertümer (Antiquitates Judaicae, ca. 93 n. Chr.) zwei wichtige Passagen über Jesus schrieb. Im sogenannten Testimonium Flavianum erwähnt er Jesus als einen weisen Mann, der viele Anhänger hatte und von Pilatus gekreuzigt wurde. Obwohl es später christliche Überarbeitungen gab, sind sich Historiker einig, dass ein Kern dieser Passage authentisch ist. Er schreibt in diesem Werk folgendes:
+
+```Um diese Zeit lebte Jesus, ein weiser Mann, wenn man ihn überhaupt einen Menschen nennen darf. Er war nämlich der Vollbringer ganz unglaublicher Taten und der Lehrer aller Menschen, die mit Freuden die Wahrheit aufnahmen. So zog er viele Juden und auch viele Heiden an sich. Dieser war der Christus. Und obgleich ihn Pilatus auf Betreiben der Vornehmen unseres Volkes zum Kreuzestod verurteilte, wurden doch seine früheren Anhänger ihm nicht untreu. Denn er erschien ihnen am dritten Tage wieder lebend, wie gottgesandte Propheten dies und tausend andere wunderbare Dinge von ihm vorherverkündet hatten. Und noch bis auf den heutigen Tag besteht das Volk der Christen, die sich nach ihm nennen, fort.```
+
