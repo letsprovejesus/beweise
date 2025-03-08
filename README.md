@@ -241,3 +241,36 @@ Während Kritiker oft behaupten, dass die Evangelien verändert worden sein kön
 
 Die Schlussfolgerung: Wer die Evangelien als gefälscht oder manipuliert betrachtet, müsste dieselben Maßstäbe auf alle anderen antiken Schriften anwenden – und das würde bedeuten, dass wir fast nichts über die Geschichte der Antike wissen könnten.
 
+---
+
+# Wie datieren Historiker die Evangelien? 
+
+Die vier Evangelien – Matthäus, Markus, Lukas und Johannes – wurden im 1. Jahrhundert n. Chr. verfasst. Historiker und Theologen haben durch textliche Analysen, Kirchenväter-Zitate und archäologische Funde versucht, die genaueren Zeiträume einzugrenzen.
+
+Hier sind die allgemein anerkannten Entstehungszeiten:
+
+| **Evangelium** | **Geschätztes Entstehungsdatum** | **Begründung** |
+|--------------|-------------------------|--------------------------------|
+| **Markus** | ca. **60–70 n. Chr.** | Oft als ältestes Evangelium angesehen; keine Erwähnung der Zerstörung des Tempels (70 n. Chr.), aber Anspielungen darauf. |
+| **Matthäus** | ca. **70–85 n. Chr.** | Enthält viele Zitate aus Markus, daher vermutlich später geschrieben. |
+| **Lukas** | ca. **70–90 n. Chr.** | Lukas schrieb auch die Apostelgeschichte, die vor 64 n. Chr. endet – daher könnte das Evangelium etwas früher geschrieben worden sein. |
+| **Johannes** | ca. **90–100 n. Chr.** | Deutlicher theologisch reflektierter Stil; Kirchenväter bezeugen spätere Abfassung. |
+
+Begründung für diese Datierungen
+Fehlende Erwähnung der Tempelzerstörung (70 n. Chr.)
+Die Evangelien sprechen über die Prophezeiung der Zerstörung des Jerusalemer Tempels (z. B. Markus 13:1-2).
+Hätten die Evangelien nach 70 n. Chr. entstanden, wäre die tatsächliche Zerstörung vermutlich explizit erwähnt worden.
+Dies deutet darauf hin, dass Markus vor 70 n. Chr. geschrieben wurde und Matthäus/Lukas kurz danach.
+Verwendung von Markus durch Matthäus und Lukas
+Die meisten Historiker gehen davon aus, dass Matthäus und Lukas Markus als Vorlage nutzten, was bedeutet, dass Markus als Erstes geschrieben wurde.
+Da Matthäus und Lukas sich in mehreren Punkten an Markus orientieren, müssen sie etwas später geschrieben worden sein.
+
+Frühe Erwähnung in den Kirchenväter-Schriften
+Clemens von Rom (ca. 95 n. Chr.) und Ignatius von Antiochien (ca. 110 n. Chr.) zitieren bereits aus den Evangelien.
+Das zeigt, dass die Evangelien spätestens bis Ende des 1. Jahrhunderts existierten und verbreitet waren.
+Johannes als spätestes Evangelium
+Die theologische Tiefe des Johannesevangeliums und die Abweichung in Stil und Inhalt von den Synoptikern (Matthäus, Markus, Lukas) deuten auf eine spätere Abfassung hin.
+Irenäus von Lyon (ca. 180 n. Chr.) berichtet, dass Johannes das Evangelium erst im hohen Alter schrieb.
+
+
+
