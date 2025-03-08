@@ -22,3 +22,11 @@ Josephus war ein jüdischer Historiker, der in seinem Werk Jüdische Altertümer
 
 ```Um diese Zeit lebte Jesus, ein weiser Mann, wenn man ihn überhaupt einen Menschen nennen darf. Er war nämlich der Vollbringer ganz unglaublicher Taten und der Lehrer aller Menschen, die mit Freuden die Wahrheit aufnahmen. So zog er viele Juden und auch viele Heiden an sich. Dieser war der Christus. Und obgleich ihn Pilatus auf Betreiben der Vornehmen unseres Volkes zum Kreuzestod verurteilte, wurden doch seine früheren Anhänger ihm nicht untreu. Denn er erschien ihnen am dritten Tage wieder lebend, wie gottgesandte Propheten dies und tausend andere wunderbare Dinge von ihm vorherverkündet hatten. Und noch bis auf den heutigen Tag besteht das Volk der Christen, die sich nach ihm nennen, fort.```
 
+# 2. Tacitus (ca. 56–120 n. Chr.)
+
+Der römische Historiker Tacitus erwähnt Jesus in seinen Annalen (ca. 116 n. Chr.), als er über die Christenverfolgung unter Kaiser Nero spricht. Er schreibt, dass „Christus“ unter Pontius Pilatus hingerichtet wurde – eine wertvolle unabhängige Bestätigung der Evangelienberichte. Tacitus schreibt folgendes:
+
+```Um das Gerücht aus der Welt zu schaffen, schob er die Schuld auf andere und verhängte die ausgesuchtesten Strafen über die wegen ihrer Verbrechen Verhassten, die das Volk ‚Chrestianer‘ nannte. Der Urheber dieses Namens ist Christus, der unter der Regierung des Tiberius vom Prokurator Pontius Pilatus hingerichtet worden war. Für den Augenblick war [so] der verderbliche Aberglaube unterdrückt worden, trat aber später wieder hervor und verbreitete sich nicht nur in Judäa, wo das Übel aufgekommen war, sondern auch in Rom, wo alle Greuel und Abscheulichkeiten der ganzen Welt zusammenströmen und gefeiert werden.```
+
+
+
