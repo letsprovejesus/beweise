@@ -34,6 +34,19 @@ Plinius war ein römischer Gouverneur, der um 112 n. Chr. einen Brief an Kaiser 
 
 ```Denen, die bestritten, Christen zu sein oder gewesen zu sein, sprach ich die Formel vor und ließ sie die Götter anrufen und zu Deinem Standbild ... mit Weihrauch- und Weinspenden beten und außerdem Christus lästern. Daraufhin konnten sie meines Erachtens freigelassen werden. Denn zu all dem sollen sich wahre Christen nicht zwingen lassen. ... Sie versicherten, ihre ganze Schuld oder ihr Irrtum habe darin bestanden, dass sie sich regelmäßig an einem bestimmten Tag vor Dämmerung versammelten, um Christus als Gott ein Lied darzubringen und sich durch Eid zu verpflichten – nicht etwa zu einem Verbrechen, sondern zur Unterlassung von Diebstahl, Raub, Ehebruch, Treulosigkeit, Unterschlagung von anvertrautem Gut. Umso mehr hielt ich es für notwendig, von zwei sogenannten ‚Dienerinnen‘ die Wahrheit auch noch durch Folter zu erforschen. Ich fand nichts als absurden, maßlosen Aberglauben. ... Denn nicht nur über die Städte, auch über die Dörfer hat sich die Seuche dieses Aberglaubens verbreitet. Doch es scheint möglich, sie einzudämmen und auszutilgen.```
 
+# 4. Sueton (ca. 69–122 n. Chr.)
+
+Ein weiterer römischer Historiker, Sueton, erwähnt in Leben der Cäsaren, dass Kaiser Claudius Juden aus Rom verbannte, weil sie „aufgrund von Christus Unruhe stifteten“. Dies zeigt, dass Jesus bereits wenige Jahrzehnte nach seinem Tod eine bekannte Figur war. Er schreibt: 
+
+```Die Juden, welche von einem gewissen Chrestos aufgehetzt, fortwährend Unruhe stifteten, vertrieb er aus Rom.```
+
+# 5. Der Babylonische Talmud (5. Jahrhundert, aber ältere Traditionen)
+
+Jüdische Quellen, darunter der Babylonische Talmud (Sanhedrin 43a), sprechen von der Hinrichtung eines gewissen „Jeschu“ (eine aramäische Form von Jesus) zur Zeit des Pessachfestes, was mit der Evangelienüberlieferung übereinstimmt. Dort steht:
+
+```Am Vorabend des Passahfestes hängte man Jeschu. Vierzig Tage vorher hatte der Herold ausgerufen: Er wird zur Steinigung hinausgeführt, weil er Zauberei getrieben und Israel verführt und abtrünnig gemacht hat; wer etwas zu seiner Verteidigung zu sagen hat, der komme und sage es. Da aber nichts zu seiner Verteidigung vorgebracht wurde, so hängte man ihn am Vorabend des Passahfestes.```
+
+
 
 
 
