@@ -66,9 +66,13 @@ Der christliche Gelehrte Origenes widerlegte in seinem Werk Contra Celsum die Ar
 # 10. Eusebius von Caesarea (ca. 260–340 n. Chr.)
 Als einer der ersten Kirchenhistoriker zitierte Eusebius frühere Schriften und überlieferte Informationen über Jesus aus Quellen, die heute verloren sind.
 
+Die historische Existenz Jesu von Nazareth ist durch eine Vielzahl von Quellen gut belegt. Sowohl christliche als auch nicht-christliche Berichte aus dem 1. und 2. Jahrhundert bestätigen, dass Jesus keine erfundene Märchenfigur war, sondern tatsächlich gelebt hat.
 
+Römische Historiker wie Tacitus und Sueton, jüdische Gelehrte wie Flavius Josephus und der Babylonische Talmud, sowie nicht-christliche Philosophen wie Lukian von Samosata und Celsus erwähnen Jesus und seine Anhänger. Selbst Gegner des Christentums versuchten nicht, seine Existenz zu leugnen, sondern lieferten indirekt Bestätigungen seiner historischen Realität.
 
+Auch frühchristliche Schriften wie die Briefe des Ignatius von Antiochien, das Didache und das Evangelium des Hebräer gehen von einer realen Person aus, die gelehrt, Wunder gewirkt und schließlich unter Pontius Pilatus hingerichtet wurde. Archäologische Funde und Handschriften wie das Egerton-Papyrus untermauern diese Überlieferungen zusätzlich.
 
+Die Fülle an unabhängigen Quellen macht es unmöglich, die Existenz Jesu als reine Erfindung abzutun. Ob man ihn als Sohn Gottes anerkennt oder nicht – dass er als historische Person existierte, ist aus wissenschaftlicher Sicht kaum bestreitbar.
 
 
 
