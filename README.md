@@ -1307,16 +1307,6 @@ Die Bibel ist nicht nur ein historisches Dokument, sondern enthält präzise Vor
 
 ---
 
-### **Wie hoch ist die Wahrscheinlichkeit, dass sich 300 Prophezeiungen über Jesus zufällig erfüllen?**  
-
-Die Bibel enthält **über 300 messianische Prophezeiungen**, die sich in Jesus Christus erfüllt haben. Die Wahrscheinlichkeit, dass sich alle diese Vorhersagen **zufällig** erfüllen, ist **astronomisch gering**.  
-
-### **Wie hoch ist die Wahrscheinlichkeit, dass sich 300 Prophezeiungen über Jesus zufällig erfüllen?**  
-
-Die Bibel enthält **über 300 messianische Prophezeiungen**, die sich in Jesus Christus erfüllt haben. Die Wahrscheinlichkeit, dass sich alle diese Vorhersagen **zufällig** erfüllen, ist **astronomisch gering**.  
-
----
-
 Alleine über das Leben von Jesus gibt es über 300 Prophezeiungen, die schon erfüllt wurden.
 
 
