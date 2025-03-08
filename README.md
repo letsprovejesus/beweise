@@ -28,5 +28,15 @@ Der römische Historiker Tacitus erwähnt Jesus in seinen Annalen (ca. 116 n. Ch
 
 ```Um das Gerücht aus der Welt zu schaffen, schob er die Schuld auf andere und verhängte die ausgesuchtesten Strafen über die wegen ihrer Verbrechen Verhassten, die das Volk ‚Chrestianer‘ nannte. Der Urheber dieses Namens ist Christus, der unter der Regierung des Tiberius vom Prokurator Pontius Pilatus hingerichtet worden war. Für den Augenblick war [so] der verderbliche Aberglaube unterdrückt worden, trat aber später wieder hervor und verbreitete sich nicht nur in Judäa, wo das Übel aufgekommen war, sondern auch in Rom, wo alle Greuel und Abscheulichkeiten der ganzen Welt zusammenströmen und gefeiert werden.```
 
+# 3. Plinius der Jüngere (ca. 61–113 n. Chr.)
+
+Plinius war ein römischer Gouverneur, der um 112 n. Chr. einen Brief an Kaiser Trajan schrieb. Darin berichtet er über Christen, die „Christus als Gott verehren“. Obwohl er keine detaillierten Angaben macht, zeigt sein Schreiben, dass Jesus als historische Person existierte und von Anhängern verehrt wurde. Er schreibt folgendes:
+
+```Denen, die bestritten, Christen zu sein oder gewesen zu sein, sprach ich die Formel vor und ließ sie die Götter anrufen und zu Deinem Standbild […] mit Weihrauch- und Weinspenden beten und außerdem Christus lästern. Daraufhin konnten sie meines Erachtens freigelassen werden. Denn zu all dem sollen sich wahre Christen nicht zwingen lassen. […]
+Sie versicherten, ihre ganze Schuld oder ihr Irrtum habe darin bestanden, dass sie sich regelmäßig an einem bestimmten Tag vor Dämmerung versammelten, um Christus als Gott ein Lied darzubringen und sich durch Eid zu verpflichten – nicht etwa zu einem Verbrechen, sondern zur Unterlassung von Diebstahl, Raub, Ehebruch, Treulosigkeit, Unterschlagung von anvertrautem Gut.
+Umso mehr hielt ich es für notwendig, von zwei sogenannten ‚Dienerinnen‘ die Wahrheit auch noch durch Folter zu erforschen. Ich fand nichts als absurden, maßlosen Aberglauben. […] Denn nicht nur über die Städte, auch über die Dörfer hat sich die Seuche dieses Aberglaubens verbreitet. Doch es scheint möglich, sie einzudämmen und auszutilgen.```
+
+
+
 
 
