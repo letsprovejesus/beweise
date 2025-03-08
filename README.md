@@ -423,9 +423,105 @@ Fassen wir dies nochmal in einer Tabelle zusammen:
 
 ---
 
+# Warum ist dies so wichtig? 
 
+Die Evangelien wurden in einer Zeit geschrieben, in der noch viele Augenzeugen Jesu am Leben waren. Die Verfasser der Evangelien hatten direkten Zugang zu denjenigen, die Jesus kannten und seine Lehren gehört hatten. Hier sind die wichtigsten Gründe, warum die Evangelien auf Augenzeugenberichten beruhen: Gehen wir in diesem Falle mal von der Worst Case Datierung aus. Wie wir ja gesehen haben, wurden diese Texte höchstwahrscheinlich noch früher verfasst.
 
+---
 
+# Die Evangelien wurden innerhalb der Lebenszeit der Augenzeugen geschrieben
+
+Wie bereits erwähnt, wurden die Evangelien zwischen 60 und 100 n. Chr. verfasst.
+
+-Markus (~60–70 n. Chr.) wurde wahrscheinlich als erstes geschrieben.
+-Matthäus und Lukas (~70–90 n. Chr.) folgten.
+-Johannes (~90–100 n. Chr.) war das letzte Evangelium.
+
+Da Jesus um 30–33 n. Chr. gekreuzigt wurde, entstanden die Evangelien 30 bis 70 Jahre nach seinem Tod. Das bedeutet, dass viele Zeitzeugen noch lebten, als die Berichte niedergeschrieben wurden.
+
+Die Menschen, die Jesus persönlich kannten, waren wahrscheinlich zwischen 10 und 40 Jahren alt, als sie ihn erlebten.
+
+Zum Zeitpunkt der Niederschrift der Evangelien waren diese Zeugen also 40 bis 80 Jahre alt – durchaus noch am Leben.
+
+Biblische Bestätigung:
+
+Lukas 1:1-4 erklärt ausdrücklich, dass das Evangelium auf Zeugnissen von Augenzeugen basiert.
+
+Johannes 21:24 betont, dass das Evangelium von jemandem verfasst wurde, der Jesus persönlich kannte.
+
+---
+
+# Frühe christliche Quellen bestätigen Augenzeugenberichte
+
+a) Papias von Hierapolis (~120 n. Chr.)
+
+-Papias, ein früher Kirchenvater, schrieb über die Entstehung der Evangelien.
+-Er berichtet, dass Markus sein Evangelium basierend auf den Predigten von Petrus schrieb – einem direkten Augenzeugen Jesu.
+-Er bestätigt auch, dass Matthäus eine Sammlung von Jesu Worten auf Hebräisch verfasst hatte.
+
+Quelle: Eusebius, Kirchengeschichte, Buch 3, Kap. 39.
+
+b) Irenäus von Lyon (~180 n. Chr.)
+
+-Irenäus, ein Schüler von Polykarp (der wiederum Schüler des Apostels Johannes war), schrieb, dass:
+-Matthäus sein Evangelium für die Juden schrieb.
+-Markus sein Evangelium auf Petrus’ Bericht basierte.
+-Lukas sein Evangelium nach Augenzeugenberichten aufzeichnete.
+-Johannes sein Evangelium als Augenzeuge schrieb.
+
+Quelle: Irenäus, Gegen die Häresien, Buch 3, Kap. 1.
+
+---
+
+# Evangelien enthalten Details, die auf Augenzeugenberichte hindeuten
+
+Konkrete Namen von Personen
+
+-Die Evangelien nennen viele Menschen, die Jesus begegnet sind – z. B. Bartimäus (Markus 10:46), Simon von Kyrene (Markus 15:21) oder Maria Magdalena (Johannes 20:1-18).
+-Diese Namen wären unnötig, wenn es sich um eine späte Legende handeln würde.
+-Historiker sehen dies als ein Zeichen dafür, dass echte Erinnerungen bewahrt wurden.
+
+Kleine, unwichtige Details
+
+Berichte von Augenzeugen enthalten oft scheinbar unwichtige Details, die sich Menschen leicht merken.
+
+Beispiele:
+
+-Jesus schlief auf einem Kissen im Boot (Markus 4:38).
+-Der Jünger Johannes lief schneller als Petrus zum Grab Jesu (Johannes 20:4).
+-Solche Details sind typisch für Berichte aus erster Hand.
+
+Frauen als erste Zeugen der Auferstehung
+
+-Die Evangelien berichten, dass Frauen als erste Zeugen der Auferstehung auftraten.
+-In der antiken jüdischen Gesellschaft waren Frauen als Zeuginnen nicht angesehen.
+-Wäre die Auferstehung eine Erfindung gewesen, hätten die Verfasser Männer als erste Zeugen genannt.
+-Historiker sehen dies als Hinweis auf echte Überlieferung und keine spätere Erfindung.
+
+Quelle: Richard Bauckham, Jesus and the Eyewitnesses (2006).
+
+---
+
+# Keine Fälschungen möglich – Augenzeugen hätten Fehler korrigiert
+
+Da die Evangelien in einer Zeit verfasst wurden, in der noch viele Augenzeugen Jesu am Leben waren, hätten Fälschungen schnell auffallen müssen.
+
+-Paulus schreibt um 55 n. Chr. (1. Korinther 15:6), dass über 500 Menschen Jesus nach seiner Auferstehung gesehen haben.
+-Wären diese Berichte erfunden, hätten Zeitzeugen sie widersprochen oder korrigiert.
+-Stattdessen verbreiteten sich die Evangelien in einer Zeit, in der viele noch überprüfen konnten, ob die Inhalte stimmen.
+
+Quelle: Craig Blomberg, The Historical Reliability of the Gospels (1987).
+
+---
+
+Fazit: Die Evangelien beruhen auf Augenzeugenberichten
+
+-Die Evangelien wurden innerhalb der Lebenszeit von Augenzeugen geschrieben.
+-Frühe Kirchenväter wie Papias und Irenäus bestätigen dies.
+-Die Evangelien enthalten viele echte Erinnerungsdetails, die typisch für Augenzeugenberichte sind.
+-Hätten sie Fehler enthalten, hätten Augenzeugen dies korrigieren können.
+
+Die Evangelien sind also nicht erst Jahrhunderte später erfundene Mythen, sondern beruhen auf direkten Berichten von Menschen, die Jesus kannten.
 
 
 
