@@ -1304,3 +1304,8 @@ John Collins: The Dead Sea Scrolls: A Biography (2012)
 -Kein anderes religiöses Buch kann eine vergleichbare Anzahl an erfüllten Vorhersagen vorweisen.
 
 Die Bibel ist nicht nur ein historisches Dokument, sondern enthält präzise Vorhersagen, die sich erfüllt haben – ein starkes Argument für ihre göttliche Inspiration.
+
+---
+
+
+
