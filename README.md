@@ -279,5 +279,21 @@ Das zeigt, dass die Evangelien spätestens bis Ende des 1. Jahrhunderts existier
 Die theologische Tiefe des Johannesevangeliums und die Abweichung in Stil und Inhalt von den Synoptikern (Matthäus, Markus, Lukas) deuten auf eine spätere Abfassung hin.
 Irenäus von Lyon (ca. 180 n. Chr.) berichtet, dass Johannes das Evangelium erst im hohen Alter schrieb.
 
+---
+
+# Die Datierung der Evangelien und die Tempelzerstörung – Ein fragwürdiges Argument?
+
+Ein häufig genanntes Argument für die späte Datierung der Evangelien – insbesondere Matthäus, Lukas und Johannes – ist die Tatsache, dass sie die Zerstörung des Tempels in Jerusalem (70 n. Chr.) erwähnen oder andeuten. Viele Historiker gehen davon aus, dass diese Evangelien erst nach 70 n. Chr. geschrieben wurden, weil Jesus in ihnen die Zerstörung des Tempels voraussagt (z. B. Matthäus 24:1-2, Lukas 21:5-6).
+
+Doch dieses Argument hat eine problematische Annahme: Es setzt voraus, dass echte Prophezeiungen nicht möglich sind. Wenn man jedoch davon ausgeht, dass Jesus diese Zerstörung tatsächlich vorhergesagt hat – was auch viele jüdische Propheten taten –, dann wäre es kein logischer Grund, die Evangelien später zu datieren.
+
+Vielmehr spricht einiges gegen eine späte Abfassung:
+
+Die Evangelien berichten über die Prophezeiung, aber nicht über die tatsächliche Zerstörung – hätte man nachträglich geschrieben, hätte man das Ereignis als erfüllte Vorhersage hervorgehoben.
+
+Andere historische Details sind präzise überliefert – warum sollte man die Evangelien erst 20+ Jahre nach dem Ereignis verfassen und dabei wichtige spätere Entwicklungen (z. B. Christenverfolgungen nach 70 n. Chr.) nicht erwähnen?
+
+Frühe Christen zitierten die Evangelien bereits im späten 1. Jahrhundert, was für eine frühere Abfassung spricht.
+Somit ist die gängige Begründung für die späte Datierung kein zwingender Beweis. Wenn man Jesus als Prophet betrachtet, der tatsächlich prophetische Aussagen machte, wäre es sogar logischer, dass die Evangelien vor 70 n. Chr. geschrieben wurden.
 
 
