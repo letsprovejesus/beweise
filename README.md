@@ -73,7 +73,40 @@ Die ersten zehn Quellen – darunter Berichte von römischen Historikern wie Tac
 
 Doch die Belege enden hier nicht. Neben diesen Quellen existieren weitere antike Schriften, die ebenfalls auf Jesus hinweisen. Besonders bemerkenswert sind frühchristliche und apokryphe Texte, die sich auf Augenzeugenberichte stützen oder aus den ersten Jahrhunderten nach Jesu Leben stammen. Sie zeigen, dass die Überlieferung von Jesus nicht nur eine religiöse Tradition war, sondern auf historische Ereignisse zurückgeht.
 
-Im Folgenden werden zehn weitere Quellen vorgestellt, die zusätzlich belegen, dass Jesus keine Erfindung, sondern eine historisch belegbare Person war.
+Im Folgenden werden elf weitere Quellen vorgestellt, die zusätzlich belegen, dass Jesus keine Erfindung, sondern eine historisch belegbare Person war.
+
+# 11. Gnostische Schriften (2. Jahrhundert n. Chr.)
+Einige gnostische Texte, wie das Thomasevangelium, enthalten Aussagen, die auf eine historische Person Jesus hindeuten. Obwohl diese Schriften später entstanden und eine andere theologische Perspektive bieten, beziehen sie sich auf Jesus als reale Figur.​
+
+# 12. Apokryphe Evangelien (2. Jahrhundert n. Chr.)
+Neben den kanonischen Evangelien existieren apokryphe Texte wie das Petrusevangelium oder das Judasevangelium, die Geschichten über Jesus erzählen. Auch wenn sie nicht in den biblischen Kanon aufgenommen wurden, zeugen sie von der Verbreitung der Überlieferungen über Jesus.​
+
+# 13. Das Evangelium des Hebräer (2. Jahrhundert n. Chr.)
+Dieses apokryphe Evangelium, das nur in Fragmenten erhalten ist, wurde von frühen christlichen Gemeinschaften verwendet und enthält Hinweise auf das Leben und die Lehren Jesu.​
+
+# 14. Das Egerton-Papyrus (2. Jahrhundert n. Chr.)
+Ein Fragment eines unbekannten Evangeliums, das Episoden aus dem Leben Jesu enthält und seine historische Existenz unterstützt.​
+
+# 15. Das Didache (1. Jahrhundert n. Chr.)
+Auch bekannt als "Lehre der zwölf Apostel", ist ein frühchristliches Schriftstück, das sich auf die Lehren Jesu bezieht und seine historische Präsenz impliziert.​
+
+# 16. Das Barnabasbrief (1. Jahrhundert n. Chr.)
+Ein frühchristliches Schreiben, das zahlreiche Bezüge zu Jesus enthält und seine Existenz voraussetzt.​
+
+# 17. Das Papiasfragmente (Anfang 2. Jahrhundert n. Chr.)
+Papias von Hierapolis, ein frühchristlicher Bischof, schrieb über die Lehren Jesu und sammelte Berichte von Augenzeugen, was auf die historische Existenz Jesu hinweist.​
+
+# 18. Das Quadratus-Apologie (ca. 125 n. Chr.)
+Quadratus, ein frühchristlicher Apologet, schrieb an Kaiser Hadrian und erwähnte, dass zu seiner Zeit noch Menschen lebten, die von Jesus geheilt oder auferweckt worden waren, was auf die historische Existenz Jesu hinweist.​
+
+# 19. Das Ignatiusbriefe (Anfang 2. Jahrhundert n. Chr.)
+Ignatius von Antiochien, ein frühchristlicher Märtyrer, schrieb Briefe an verschiedene Gemeinden, in denen er sich auf das Leben und die Lehren Jesu bezog.​
+
+# 20. Das Justin der Märtyrer Schriften (2. Jahrhundert n. Chr.)
+Justin der Märtyrer, ein früher christlicher Apologet, verfasste zahlreiche Werke, in denen er das Leben und die Lehren Jesu diskutierte und verteidigte.​
+
+# 21. Thallus (ca. 52 n. Chr.)
+Thallus war ein antiker Historiker, dessen Werke heute verloren sind, aber von späteren Autoren zitiert wurden. Der christliche Schriftsteller Julius Africanus (3. Jahrhundert n. Chr.) erwähnt, dass Thallus die ungewöhnliche Finsternis zur Zeit der Kreuzigung Jesu als natürliche Sonnenfinsternis erklärte. Dies zeigt, dass bereits im 1. Jahrhundert nicht-christliche Historiker von Jesus und seinem Tod wussten.
 
 Die historische Existenz Jesu von Nazareth ist durch eine Vielzahl von Quellen gut belegt. Sowohl christliche als auch nicht-christliche Berichte aus dem 1. und 2. Jahrhundert bestätigen, dass Jesus keine erfundene Märchenfigur war, sondern tatsächlich gelebt hat.
 
