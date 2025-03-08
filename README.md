@@ -793,3 +793,11 @@ Fazit: Die Evangelisten hatten keinen Grund zur Lüge
 -Die Verfasser glaubten selbst an die Wahrheit ihrer Berichte – sie lebten und starben dafür.
 
 Alles spricht dafür, dass die Evangelien keine erfundene Geschichte sind, sondern authentische Berichte über Jesus.
+
+---
+
+Ich schreibe jetzt eine kleine Information zwischendurch. Leider bin ich kein Schriftsteller. Mir geht es nur darum, gute Argumente zu bringen. Ich kann verstehen, dass mein Schreibstil etwas verwirrend wirken kann, da ich so etwas zum ersten Mal mache. Lasst euch davon aber bitte nicht abschrecken. Ich werde noch viele interessante Dinge erzählen, diese sind es auf jeden Fall wert.
+
+---
+
+
