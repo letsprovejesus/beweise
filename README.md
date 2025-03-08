@@ -10,6 +10,8 @@ Aus meiner Sicht kann etwas, das innerhalb der Schöpfung existiert, nicht direk
 
 In diesem Buch werde ich auf diese Beweise und Argumente eingehen. Ich bin kein professioneller Schriftsteller, aber mir geht es nicht um kunstvolle Formulierungen, sondern um den Inhalt. Ich hoffe, dass die hier dargelegten Gedanken zum Nachdenken anregen und einen neuen Blick auf den Glauben ermöglichen.
 
+Ein weiterer Punkt, weshalb ich dies schreibe, ist, weil es aus meiner Sicht total wichtig ist nicht "einfach nur zu glauben". Viele sagen ja, man bräuchte keine Beweise und Indizien, der reine Glaube würde reichen. Das sehe ich überhauot nicht so. Woher soll man denn wissen, dass diese Religion / der Glaube der richtige ist? Weil man diesen Glauben von der Familie übernommen hat? Weil sich der Glaube für jemanden gut anfühlt? Aus meiner Sicht ziemlich schlechte Kriterien. Meiner Meinung nach muss das durch rationale Argumente / Indizien passieren. 
+
 ---
 
 # War Jesus eine historische Person? – Ein Blick auf die Beweislage
