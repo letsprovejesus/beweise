@@ -205,3 +205,16 @@ J. B. Lightfoot: The Apostolic Fathers (Baker Book House, 1981)
 William Lane Craig: Reasonable Faith (Crossway, 2008)
 
 ---
+
+# Archäologische Funde bestätigen Details der Evangelien
+
+-Die Inschrift von Pontius Pilatus (1961 in Caesarea entdeckt) bestätigt, dass Pilatus zur Zeit Jesu tatsächlich als römischer Statthalter existierte.
+-Die Ossuarien (Knochenkisten) von Kaiphas belegen die Existenz des jüdischen Hohepriesters, der in den Evangelien erwähnt wird.
+-Die "Nazareth-Inschrift" zeigt, dass es im 1. Jahrhundert eine römische Anordnung gegen Grabschändungen gab – möglicherweise als Reaktion auf Berichte über Jesu Auferstehung.
+
+Diese Funde stützen die historische Genauigkeit der Evangelien und zeigen, dass sie keine spätere Erfindung sind.
+
+Quellen:
+John McRay: Archaeology and the New Testament (Baker Academic, 1991)
+Craig Evans: Jesus and His World: The Archaeological Evidence (Westminster John Knox Press, 2012)
+
