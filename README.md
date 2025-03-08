@@ -972,4 +972,130 @@ Bestätigt durch:
 
 ---
 
+# Orte und Bauwerke, die das Neue Testament bestätigt
 
+Der Tempel in Jerusalem (Zerstört 70 n. Chr.)
+
+-Archäologische Überreste (Westmauer, Ophel-Gebiet).
+
+-Josephus, Jüdischer Krieg, beschreibt die Zerstörung, die Jesus in Matthäus 24:2 vorhersagte.
+
+---
+
+Bethesda-Teich (Johannes 5:2)
+
+-1888 in Jerusalem entdeckt, mit fünf Säulenhallen – genau wie im Johannesevangelium beschrieben.
+
+---
+
+Siloah-Teich (Johannes 9:7)
+
+-2004 bei Ausgrabungen in Jerusalem entdeckt.
+
+---
+
+Das Haus des Petrus in Kapernaum
+
+-Identifiziert durch Inschriften und christliche Nutzung bereits im 1. Jahrhundert.
+
+---
+
+Die Synagoge von Kapernaum (Lukas 7:5)
+
+-Archäologische Reste aus dem 1. Jahrhundert gefunden.
+
+---
+
+Nazareth
+
+-Archäologische Funde aus dem 1. Jahrhundert zeigen, dass es eine bewohnte jüdische Stadt war.
+
+---
+
+Das Prätorium von Pilatus in Jerusalem (Matthäus 27:11)
+
+-Identifiziert in der Davidsstadt unter der heutigen Via Dolorosa.
+
+---
+
+# Historische Ereignisse, die das Neue Testament bestätigt
+
+Die Volkszählung unter Quirinius (Lukas 2:2)
+
+-Josephus erwähnt eine Steuererhebung in Judäa ca. 6 n. Chr.
+
+-Inschriften deuten darauf hin, dass Quirinius möglicherweise zweimal Statthalter war.
+
+---
+
+Die Christenverfolgung unter Nero (64 n. Chr.)
+
+-Bestätigt durch Tacitus (Annalen 15.44):
+
+-Er berichtet, dass Nero Christen als Sündenböcke für den Brand Roms hinrichtete.
+
+---
+
+Die Zerstörung Jerusalems (70 n. Chr.)
+
+-Von Josephus detailliert beschrieben, wie Jesus es in Matthäus 24:2 voraussagte.
+
+---
+
+Die Existenz der frühen Kirche
+
+-Plinius der Jüngere (Brief an Kaiser Trajan, ca. 112 n. Chr.) beschreibt Christen als Anhänger „Christi“.
+
+-Sueton (Kaiserbiograph, 120 n. Chr.) erwähnt Unruhen wegen „Chrestus“, vermutlich Christus.
+
+---
+
+# Jesus selbst in außerbiblischen Quellen
+
+Punkte oben bereits erwähnt, hier kurz zusammengefasst:
+
+Flavius Josephus (ca. 93 n. Chr.)
+
+-Jüdische Altertümer (Buch 18) erwähnt Jesus, seinen Tod unter Pilatus und seine Anhänger.
+
+---
+
+Tacitus (ca. 116 n. Chr.)
+
+-Annalen 15.44 nennt „Christus, der unter Pilatus hingerichtet wurde“.
+
+---
+
+Sueton (ca. 120 n. Chr.)
+
+-Leben der Cäsaren erwähnt Unruhen wegen „Chrestus“ in Rom.
+
+---
+
+Thallus (ca. 52 n. Chr.)
+
+-Spricht von einer Dunkelheit zur Zeit der Kreuzigung, zitiert von Julius Africanus.
+
+---
+
+Mara Bar-Serapion (ca. 2. Jahrhundert n. Chr.)
+
+-Syrischer Philosoph vergleicht Jesus mit Sokrates als weisen Mann, der zu Unrecht getötet wurde.
+
+---
+
+Der Babylonische Talmud (Sanhedrin 43a)
+
+-Erwähnt „Jeschu“, der zur Pessachzeit gehängt (gekreuzigt) wurde.
+
+---
+
+Fazit: Das Neue Testament ist historisch zuverlässig
+
+-Personen, Orte und Ereignisse aus dem Neuen Testament sind durch außerbiblische Quellen und Archäologie bestätigt.
+
+-Keine anderen antiken Schriften sind so gut belegt wie das Neue Testament.
+
+-Sowohl römische, jüdische als auch christliche Quellen bestätigen die zentrale Geschichte Jesu und der frühen Kirche.
+
+Das Neue Testament ist kein mythologisches Werk, sondern eine historische Quelle, deren Kern durch zahlreiche Belege gestützt wird.
