@@ -1140,3 +1140,23 @@ Die Evangelisten hatten keinen weltlichen Vorteil, sondern wurden verfolgt. Sie 
 
 Insgesamt spricht die historische, textkritische und archäologische Beweislage klar für die Zuverlässigkeit der Evangelien. Wir haben es also hier mit zuverlässigen Schriften zu tun, die wahre Ereignisse, und keine erfundenen Geschichten beschreiben. 
 
+---
+
+# Beweise für die Auferstehung
+
+Da wir jetzt gezeigt haben, dass die Texte glaubwürdig sind, sind auch die Ereignisse innerhalb dieser Texte glaubwürdig. Jesus ist also auferstanden. Aber für die Kritiker werden wir uns dieses Ereignis noch einmal genauer unter die Lupe nehmen und zeigen, dass es so passiert sein muss. 
+
+TODO:
+
+---
+
+# Prophetie in der Bibel – Ein Blick auf übernatürliche Vorhersagen
+
+Eines der faszinierendsten Merkmale der Bibel ist die Prophetie – Vorhersagen zukünftiger Ereignisse, die sich später genau erfüllt haben. Während viele religiöse Schriften allgemeine oder symbolische Aussagen enthalten, finden sich in der Bibel zahlreiche detaillierte Prophezeiungen, die oft Hunderte von Jahren vor ihrer Erfüllung niedergeschrieben wurden.
+
+Besonders im Alten Testament gibt es Prophezeiungen, die die Geburt, das Leben, den Tod und die Auferstehung Jesu vorhersagen – lange bevor sie eintrafen. Doch auch historische Ereignisse, wie die Zerstörung Jerusalems, das Aufkommen bestimmter Weltreiche oder die Zerstreuung und Wiederherstellung Israels, wurden genau vorausgesagt.
+
+Bevor wir auf bestimmte Prophezeiungen eingehen, schauen wir uns erst einmal an, wie viele dieser Prophezeiungen es in der Bibel gibt und wie wahrscheinlich deren zufällige Erfüllung wäre. 
+
+
+
