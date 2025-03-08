@@ -317,6 +317,22 @@ Das bedeutet: Das Lukasevangelium wurde höchstwahrscheinlich vor der Zerstörun
 
 Diese Schlussfolgerung macht eine frühe Entstehung der Evangelien insgesamt wahrscheinlicher und spricht gegen die Annahme, dass sie erst nach den Ereignissen geschrieben wurden, die sie angeblich „prophezeit“ haben.
 
+---
+
+# Das Matthäusevangelium wurde auch früher geschrieben
+
+lesen wir aus Matthäus 27: 3-8.
+
+ Als Judas, der ihn verraten hatte, sah, dass Jesus verurteilt worden war, bekam er Gewissensbisse und gab den Hohenpriestern und Ältesten die dreißig Silberlinge zurück.  „Ich habe gesündigt“, sagte er, ‚denn ich habe unschuldiges Blut verraten‘.
+„Was geht uns das an?“, antworteten sie. „Das ist eure Verantwortung.“
+Da warf Judas das Geld in den Tempel und ging weg. Dann ging er weg und erhängte sich.
+Die Hohenpriester hoben die Münzen auf und sagten: „Es ist gegen das Gesetz, das Geld in die Schatzkammer zu werfen, denn es ist Blutgeld.“  Da beschlossen sie, mit dem Geld den Töpferacker als Begräbnisstätte für Ausländer zu kaufen, weshalb er bis heute „Blutacker“ genannt wird.
+Warum ist dies ein Hinweis darauf, dass das Evangelium vor 70 nach Christus geschrieben wurde? Ich weiß nicht, ob Sie es bemerkt haben, aber Matthäus sagt hier nicht, dass dieses Feld einst ein Feld des Blutes genannt wurde. Es wird auch heute noch so genannt. Die Formulierung bis heute zeigt deutlich, dass die Menschen in Jerusalem zur Zeit der Niederschrift das Feld immer noch Blutfeld nannten. Und das ist nach dem Jahr 70 nicht mehr möglich. Nach dem zerstörerischen Krieg mit den Römern sahen die Stadt Jerusalem und ihre Umgebung nicht mehr so aus wie vorher, und es gab kaum noch Menschen, die irgendetwas beim Namen nennen konnten, zum Beispiel ein Feld, weil sie entweder getötet, versklavt oder von den Römern vertrieben worden waren. 
+
+Matthäus muss also vor dieser Zerstörung geschrien haben. Das belegen auch alle frühchristlichen Quellen, die wir haben. Im Jahr 324 n. Chr. schrieb ein Gelehrter namens Euesebius eine sehr ausführliche Geschichte des christlichen Glaubens. Er greift dabei auf unzählige Quellen der Urchristen zurück. Und dieser Euesebius schreibt über die Entstehung des Matthäusevangeliums folgendes: Matthäus, der zunächst unter den Hebräern, also den in Israel lebenden Juden, gepredigt hatte, überlieferte das Evangelium in einer Schrift in seiner Muttersprache, als er auch zu anderen Völkern gehen wollte.
+
+Denn er suchte durch die Schriften zu ersetzen, was diejenigen, von denen er ging, durch seinen Weggang verloren hatten. Die Information in diesem Satz ist eindeutig. Matthäus schrieb sein Evangelium, bevor er die Provinz Judäa verließ, um auf eine Auslandsmission zu gehen. Nun stellt sich die Frage, wann verließen die Apostel Jerusalem, um zu anderen Völkern zu gehen? Wir können das nicht genau bestimmen, aber wir wissen gemäß der Apostelgeschichte, dass die Apostel spätestens im Jahr 57 n. Chr. nicht mehr in Jerusalem waren. Denn in diesem Jahr kam Paulus nach Jerusalem und traf dort keinen einzigen der Apostel. Dass das Matthäusevangelium vor dem Jahr 70 n. Chr. geschrieben wurde, sagt auch ein anderer christlicher Gelehrter namens Irenäus. Dieser Mann schrieb im Jahr 180 n. Chr. Folgendes: Matthäus veröffentlichte ein Evangeliumsdokument unter den Hebräern in ihrem eigenen Dialekt, als Petrus und Paulus in Rom missionierten. Wann war das? Wir wissen, dass Petrus und Paulus spätestens im Jahr 67 n. Chr. starben. Also muss das Evangelium gemäß Irenäus irgendwann davor geschrieben worden sein.
+
 
 
 
