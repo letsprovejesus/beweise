@@ -189,3 +189,19 @@ Kurt und Barbara Aland: The Text of the New Testament (Eerdmans, 1995)
 F. F. Bruce: The New Testament Documents: Are They Reliable? (Eerdmans, 1981)
 
 ---
+
+# Frühe Zitate der Kirchenväter
+
+Die Kirchenväter (frühe christliche Theologen und Historiker) zitierten die Evangelien bereits im 1. und 2. Jahrhundert, was zeigt, dass der Text schon damals bekannt und stabil war.
+
+-Clemens von Rom (ca. 95 n. Chr.) zitiert die Evangelien und Paulusbriefe.
+-Ignatius von Antiochien (ca. 110 n. Chr.) bestätigt zentrale Jesus-Worte aus den Evangelien.
+-Irenäus von Lyon (ca. 180 n. Chr.) nennt die vier Evangelien beim Namen und bestätigt, dass sie als authentisch anerkannt sind.
+
+Die Evangelien waren also bereits im 2. Jahrhundert weit verbreitet, ohne dass es Hinweise auf große Textänderungen gibt.
+
+Quellen:
+J. B. Lightfoot: The Apostolic Fathers (Baker Book House, 1981)
+William Lane Craig: Reasonable Faith (Crossway, 2008)
+
+---
