@@ -887,3 +887,89 @@ Fazit: Keine Fälschung durch die Kirche im Mittelalter
 -Es gibt keine historischen Beweise für eine absichtliche Verfälschung.
 
 Das Argument, die katholische Kirche habe die Evangelien im Mittelalter manipuliert, ist eine moderne Legende, die nicht durch Fakten belegt wird.
+
+---
+
+# Historische Belege, die das Neue Testament bestätigen
+
+Das Neue Testament ist nicht nur eine Sammlung religiöser Schriften, sondern enthält auch viele historische Ereignisse, Personen und Orte, die durch außerbiblische Quellen bestätigt werden. Hier sind so viele historische Belege wie möglich, die das Neue Testament unterstützen:
+
+---
+
+# Historische Personen im Neuen Testament, die belegt sind
+
+Pontius Pilatus (Statthalter von Judäa, ca. 26–36 n. Chr.)
+
+Bestätigt durch:
+
+-Inschrift von Caesarea (1961 entdeckt) mit seinem Namen und Titel.
+
+-Tacitus (Annalen, 116 n. Chr.) nennt Pilatus als den, der Jesus hinrichten ließ.
+
+---
+
+Herodes der Große (König von Judäa, 37–4 v. Chr.)
+
+Bestätigt durch:
+
+-Flavius Josephus, Jüdische Altertümer
+
+-Archäologische Funde, darunter sein Palast in Jericho und sein Mausoleum in Herodium.
+
+---
+
+Herodes Antipas (Tetrarch von Galiläa, ca. 4 v. Chr.–39 n. Chr.)
+
+Bestätigt durch:
+
+-Josephus, Jüdische Altertümer
+
+-Münzen mit seinem Namen.
+
+---
+
+Johannes der Täufer (um 27–30 n. Chr. aktiv)
+
+Bestätigt durch:
+
+-Flavius Josephus, Jüdische Altertümer (Buch 18) beschreibt ihn als Bußprediger und erwähnt seine Hinrichtung durch Herodes Antipas.
+
+---
+
+Kaiphas (Hohepriester 18–36 n. Chr.)
+
+Bestätigt durch:
+
+-Ossuar (Knochenkiste) mit seinem Namen 1990 in Jerusalem gefunden.
+
+-Erwähnt in Josephus' Schriften.
+
+---
+
+Gallio (Statthalter von Achaia, 51 n. Chr.)
+
+Bestätigt durch:
+
+-Delphi-Inschrift, die ihn als römischen Prokonsul nennt, exakt zur Zeit von Apostelgeschichte 18:12.
+
+---
+
+Sergius Paulus (Statthalter von Zypern, 1. Jh. n. Chr.)
+
+Bestätigt durch:
+
+-Inschrift auf Zypern, die ihn als Prokonsul nennt, was mit Apostelgeschichte 13:7 übereinstimmt.
+
+---
+
+Felix und Festus (römische Statthalter, 1. Jh. n. Chr.)
+
+Bestätigt durch:
+
+-Josephus, Jüdische Altertümer und Der jüdische Krieg
+
+-Römische Inschriften mit ihren Namen.
+
+---
+
+
