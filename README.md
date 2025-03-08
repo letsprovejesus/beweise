@@ -574,5 +574,100 @@ Fazit: Die Evangelien beruhen auf Augenzeugenberichten
 
 Die Evangelien sind also nicht erst Jahrhunderte später erfundene Mythen, sondern beruhen auf direkten Berichten von Menschen, die Jesus kannten.
 
+---
+
+# Gibt es Widersprüche innerhalb der Evangelien? 
+
+Ein häufiges Argument von Kritikern ist, dass die Evangelien Widersprüche enthalten, die ihre Glaubwürdigkeit infrage stellen. Doch die entscheidende Frage ist: Betreffen diese Widersprüche die Kernaussage über Jesus – seine Lehren, seinen Tod und seine Auferstehung?
+
+Die Antwort lautet: Nein.
+
+Während es kleinere Unterschiede in den Details gibt, bleibt die zentrale Botschaft der Evangelien konsistent und unverändert.
+
+---
+
+# Arten von scheinbaren Widersprüchen in den Evangelien
+
+Unterschiedliche Perspektiven und Schwerpunkte
+
+Die vier Evangelien wurden von verschiedenen Autoren für unterschiedliche Zielgruppen geschrieben. Jeder Autor hebt bestimmte Aspekte hervor, was zu Variationen in den Berichten führt – aber das ist nicht dasselbe wie ein echter Widerspruch.
+
+Zusätzliche oder weggelassene Details
+
+Manche Unterschiede entstehen, weil ein Evangelium mehr oder weniger Details enthält als ein anderes. Dies ist eine normale Erscheinung in Augenzeugenberichten.
+
+Abweichende Formulierungen bei Jesus-Worten
+
+Jesus sprach in einer mündlichen Kultur und möglicherweise in verschiedenen Sprachen (Aramäisch, Hebräisch, Griechisch). Die Evangelisten geben seine Worte oft sinngemäß wieder, was zu leichten Abweichungen führen kann.
+
+---
+
+# Beispiele für oft genannte „Widersprüche“ und ihre Erklärung
+
+a) Die Inschrift am Kreuz – Unterschiedliche Formulierungen
+
+Matthäus 27:37 – „Dies ist Jesus, der König der Juden.“
+
+Markus 15:26 – „Der König der Juden.“
+
+Lukas 23:38 – „Dies ist der König der Juden.“
+
+Johannes 19:19 – „Jesus von Nazareth, der König der Juden.“
+
+Erklärung:
+
+-Alle vier Berichte haben dieselbe Kernaussage: Jesus wurde als König der Juden hingerichtet.
+
+-Inschriften wurden in drei Sprachen (Hebräisch, Latein, Griechisch) verfasst (Johannes 19:20).
+
+-Es ist möglich, dass jeder Evangelist eine leicht andere Übersetzung oder Zusammenfassung der Inschrift gibt.
+
+Widerspruch? → Nein, nur unterschiedliche Wortwahl für dieselbe Aussage.
+
+b) Der Zeitpunkt der Kreuzigung – 9 Uhr oder Mittag?
+
+Markus 15:25 – „Es war die dritte Stunde (9 Uhr morgens), als sie ihn kreuzigten.“
+
+Johannes 19:14-15 – Jesus wurde „um die sechste Stunde“ (12 Uhr mittags) zur Kreuzigung übergeben.
+
+Erklärung:
+
+-Markus und Johannes benutzen verschiedene Zeitrechnungen.
+
+-Markus verwendet die jüdische Zeitrechnung (Tagesbeginn = Sonnenaufgang, also 6 Uhr).
+
+-Johannes verwendet die römische Zeitrechnung (Tagesbeginn = Mitternacht).
+
+Damit ergibt sich:
+
+-Johannes (6. Stunde, römisch) = 6 Uhr morgens → Verurteilung.
+
+Markus (3. Stunde, jüdisch) = 9 Uhr morgens → Kreuzigung.
+
+Beides ist also vereinbar: Jesus wurde gegen 6 Uhr verurteilt und gegen 9 Uhr gekreuzigt.
+
+Widerspruch? → Nein, nur unterschiedliche Zeitrechnungen.
+
+c) Die Frauen am Grab – Wer war anwesend?
+
+-Matthäus 28:1 – Maria Magdalena und die „andere Maria“ kamen zum Grab.
+
+-Markus 16:1 – Maria Magdalena, Maria (die Mutter des Jakobus) und Salome.
+
+-Lukas 24:10 – Maria Magdalena, Johanna, Maria (die Mutter des Jakobus) und weitere Frauen.
+
+-Johannes 20:1 – Maria Magdalena allein.
+
+Erklärung:
+
+-Johannes konzentriert sich auf Maria Magdalena als zentrale Figur, aber er sagt nicht, dass sie allein war.
+
+-Matthäus und Markus nennen einige Frauen, während Lukas von mehreren berichtet.
+
+-Die Evangelien widersprechen sich nicht, sondern geben einfach verschiedene Details.
+
+Widerspruch? → Nein, sondern ergänzende Berichte.
+
+
 
 
