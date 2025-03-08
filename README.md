@@ -1322,7 +1322,7 @@ Alleine über das Leben von Jesus gibt es über 300 Prophezeiungen, die schon er
 
 | Prophezeite Eigenschaft des Messias                                                     | Autor / Ursprung        | Prophezeiung im Alten Testament            | Erfüllung im Neuen Testament                           |
 |-----------------------------------------------------------------------------------------|-------------------------|--------------------------------------------|--------------------------------------------------------|
-| Der Messias wird ein Nachkomme Abrahams sein.                                           | Engel                   | 1. Mo 18,17; Gal 3,7-8                       | Mt 1,1                                               |
+| Der Messias wird ein Nachkomme Abrahams sein.                                           | Engel                   | 1. Mo 18,17;                        | Mt 1,1, Gal 3,7-8                                              |
 | Der Messias wird ein Nachkomme Isaaks sein.                                             | Engel                   | 1. Mo 17,19                                | Mt 1,2.16                                            |
 | Der Messias wird ein Nachkomme Jakobs sein.                                               | Bileam                  | 4. Mo 24,17                                | Lk 3,23.34                                           |
 | Der Messias stammt aus dem Stamm Juda.                                                  | Jakob                   | 1. Mo 49,10                                | Lk 3,23.33; Mt 1,2                                   |
