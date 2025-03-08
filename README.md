@@ -796,8 +796,92 @@ Alles spricht dafür, dass die Evangelien keine erfundene Geschichte sind, sonde
 
 ---
 
-Ich schreibe jetzt eine kleine Information zwischendurch. Leider bin ich kein Schriftsteller. Mir geht es nur darum, gute Argumente zu bringen. Ich kann verstehen, dass mein Schreibstil etwas verwirrend wirken kann, da ich so etwas zum ersten Mal mache. Lasst euch davon aber bitte nicht abschrecken. Ich werde noch viele interessante Dinge erzählen, diese sind es auf jeden Fall wert.
+Ich schreibe jetzt eine kleine Information zwischendurch. Leider bin ich kein Schriftsteller. Mir geht es nur darum, gute Argumente zu bringen. Ich kann verstehen, dass mein Schreibstil etwas verwirrend wirken kann, da ich so etwas zum ersten Mal mache. Lasst euch davon aber bitte nicht abschrecken. Ich werde noch viele interessante Dinge erzählen, diese sind es auf jeden Fall wert. Da ich das hier alles frei aufschreibe, kann es unter Umständen auch sein, dass etwas doppelt vorkommt. Dies bitte ich zu entschuldigen.
 
 ---
 
+# Hat die katholische Kirche die Evangelien verfälscht oder verändert?
 
+Ein häufig geäußertes Argument ist, dass die katholische Kirche oder andere kirchliche Institutionen die Evangelien im Mittelalter absichtlich verändert oder verfälscht hätten. Doch wenn wir die historische und textkritische Beweislage betrachten, zeigt sich: Es gibt keine Hinweise auf eine systematische Verfälschung der Evangelien durch die Kirche im Mittelalter.
+
+---
+
+# Die große Anzahl an Manuskripten verhindert Manipulation
+
+-Über 5.800 griechische Manuskripte des Neuen Testaments sind erhalten, dazu über 25.000 Manuskripte in anderen Sprachen (Latein, Koptisch, Syrisch usw.).
+
+-Diese Manuskripte stammen aus unterschiedlichen Zeiten und Regionen (Ägypten, Rom, Byzanz, Syrien).
+
+-Eine absichtliche Verfälschung hätte bedeutet, dass alle Manuskripte weltweit gleichzeitig geändert werden müssten – was praktisch unmöglich ist.
+
+Quelle:
+
+Kurt und Barbara Aland, The Text of the New Testament (Eerdmans, 1995)
+
+---
+
+# Textkritik zeigt keine wesentlichen Änderungen
+
+-Über 99% der Unterschiede zwischen den Handschriften sind nur Rechtschreibfehler, Wortumstellungen oder stilistische Variationen.
+
+-Kein einziges zentrales theologisches Dogma – wie die Göttlichkeit Jesu oder die Auferstehung – ist durch Textvarianten in Frage gestellt.
+
+-Alte Manuskripte wie der Codex Sinaiticus (4. Jh.) oder der Codex Vaticanus (4. Jh.) stimmen inhaltlich mit späteren mittelalterlichen Kopien überein.
+
+Quelle:
+
+F. F. Bruce, The New Testament Documents: Are They Reliable? (Eerdmans, 1981)
+
+---
+
+# Frühe Übersetzungen belegen die Stabilität des Textes
+
+-Das Neue Testament wurde bereits im 2. Jahrhundert in andere Sprachen übersetzt (Latein, Syrisch, Koptisch).
+
+-Diese frühen Übersetzungen stimmen mit den heutigen Evangelien weitgehend überein.
+
+-Hätte die Kirche im Mittelalter Manipulationen vorgenommen, müssten diese in allen Übersetzungen gleichzeitig auftauchen – das ist aber nicht der Fall.
+
+Quelle:
+
+Bruce M. Metzger, The Text of the New Testament: Its Transmission, Corruption, and Restoration (Oxford University Press, 2005)
+
+---
+
+# Kein historischer Beleg für eine absichtliche Fälschung im Mittelalter
+
+-Kritiker behaupten oft, die katholische Kirche habe im Mittelalter Bibeltexte verändert – doch es gibt keine historischen Beweise für eine gezielte Manipulation.
+
+-Die ältesten Bibelhandschriften aus dem 2.–4. Jahrhundert stimmen mit den mittelalterlichen Kopien überein.
+
+-Die Erfindung des Buchdrucks (15. Jahrhundert) stellte sicher, dass Texte nicht mehr verändert werden konnten – doch auch gedruckte Bibeln weichen nicht von älteren Manuskripten ab.
+
+Quelle:
+
+Bart D. Ehrman, Misquoting Jesus: The Story Behind Who Changed the Bible and Why (2005) – obwohl Ehrman selbst skeptisch ist, bestätigt er, dass keine theologisch relevanten Veränderungen vorgenommen wurden.
+
+---
+
+# Die „Dan-Brown-Verschwörung“ – Warum diese Idee populär ist
+
+-Bücher wie Sakrileg (The Da Vinci Code) oder Dokumentationen über Geheimbünde verbreiten die Idee, dass die Kirche biblische Texte verändert hätte, um Macht zu sichern.
+
+-Doch solche Behauptungen basieren nicht auf historischer Forschung, sondern auf Spekulationen.
+
+-Moderne Bibelausgaben basieren auf den ältesten verfügbaren Manuskripten – nicht auf mittelalterlichen Änderungen.
+
+---
+
+Fazit: Keine Fälschung durch die Kirche im Mittelalter
+
+-Die Evangelien wurden nicht im Mittelalter absichtlich verändert.
+
+-Die große Anzahl an Manuskripten verhindert nachträgliche Manipulationen.
+
+-Textkritische Analysen zeigen keine bedeutenden Abweichungen.
+
+-Frühe Übersetzungen und Bibelhandschriften aus dem 2.–4. Jahrhundert stimmen mit späteren Texten überein.
+
+-Es gibt keine historischen Beweise für eine absichtliche Verfälschung.
+
+Das Argument, die katholische Kirche habe die Evangelien im Mittelalter manipuliert, ist eine moderne Legende, die nicht durch Fakten belegt wird.
