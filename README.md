@@ -714,3 +714,82 @@ Gerade die Unterschiede in den Evangelien sprechen für ihre Glaubwürdigkeit. W
 
 Gerade weil die Evangelien keine identischen Kopien sind, sondern ergänzende Perspektiven bieten, spricht das für ihre Authentizität und nicht gegen sie.
 
+---
+
+# Die Motive der Evangelisten: Wahrheit oder Erfindung?
+
+Eine entscheidende Frage zur Glaubwürdigkeit der Evangelien ist: Hatten die Verfasser einen Grund, Geschichten zu erfinden, oder wollten sie einfach die Wahrheit über Jesus bewahren?
+
+Wenn jemand eine Fälschung erstellt, gibt es meist klare Motive, etwa Macht, Reichtum oder politischer Einfluss. Doch wenn wir uns die Situation der Evangelisten und der frühen Christen anschauen, wird klar: Die Verfasser der Evangelien hatten keinen erkennbaren Vorteil durch eine Lüge – im Gegenteil, sie riskierten ihr Leben für die Botschaft.
+
+---
+
+# Die Evangelisten gewannen keinen Reichtum oder Macht
+
+-Keiner der Evangelisten wurde reich oder mächtig – im Gegenteil: Die Verbreitung der Evangelien brachte Verfolgung, Armut und Tod.
+
+-Die ersten Christen wurden verfolgt und viele starben als Märtyrer – ein unwahrscheinliches Schicksal für bewusste Fälscher.
+
+-Wenn die Evangelien erfunden wären, hätten die Verfasser sich wohl selbst als Helden dargestellt – doch stattdessen berichten sie ehrlich über ihre Schwächen (z. B. Petrus' Verleugnung, Markus 14:66-72).
+
+Quelle:
+
+Craig Blomberg, The Historical Reliability of the Gospels (1987)
+
+---
+
+# Warum hätten sie eine Lüge verbreiten sollen, die sie das Leben kostet?
+
+-Die meisten Apostel und frühen Christen starben für ihren Glauben.
+
+-Menschen sterben vielleicht für eine falsche Überzeugung – aber niemand stirbt freiwillig für etwas, von dem er weiß, dass es eine Lüge ist.
+
+-Hätten sie Jesus erfunden oder Legenden um ihn aufgebaut, hätten sie unter Druck (Folter, Hinrichtung) ihre „Lüge“ zugegeben – doch das geschah nicht.
+
+Beispiel:
+
+Apostel Paulus begann als Christenhasser, doch nach einer persönlichen Begegnung mit Jesus wurde er zum glühenden Anhänger – warum sollte er sein Leben für eine Erfindung aufgeben?
+
+---
+
+# Die Evangelien berichten über unangenehme Wahrheiten
+
+Wenn die Evangelien gefälscht wären, warum enthalten sie dann peinliche oder unbequeme Details?
+
+-Die Jünger werden oft als schwach oder ängstlich beschrieben.
+
+-Jesus' Familie zweifelt zunächst an ihm (Markus 3:21).
+
+-Frauen sind die ersten Zeugen der Auferstehung – in der damaligen Gesellschaft waren Frauen keine glaubwürdigen Zeugen.
+
+-Wären die Evangelien erdacht worden, hätten die Verfasser solche Details vermutlich weggelassen.
+
+Quelle:
+
+Richard Bauckham, Jesus and the Eyewitnesses (2006)
+
+---
+
+Die frühen Christen erwarteten kein weltlichen Erfolg
+
+-Das Christentum war keine Bewegung, die nach politischem Einfluss oder Reichtum strebte.
+
+-Die ersten Christen wurden von Römern und Juden gleichermaßen verfolgt.
+
+-Hätte Jesus nicht wirklich gelebt, gekreuzigt und auferstanden, warum hätten sich so viele Menschen freiwillig einer verfolgten Gruppe angeschlossen?
+
+Quelle:
+
+Gary Habermas & Michael Licona, The Case for the Resurrection of Jesus (2004)
+
+---
+
+Fazit: Die Evangelisten hatten keinen Grund zur Lüge
+
+-Kein Reichtum, keine Macht, sondern Verfolgung und Tod – unwahrscheinlich, dass jemand für eine erfundene Geschichte stirbt.
+
+-Die Evangelien enthalten unbequeme Wahrheiten, die Fälscher eher weggelassen hätten.
+
+-Die Verfasser glaubten selbst an die Wahrheit ihrer Berichte – sie lebten und starben dafür.
+
+Alles spricht dafür, dass die Evangelien keine erfundene Geschichte sind, sondern authentische Berichte über Jesus.
