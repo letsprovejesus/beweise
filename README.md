@@ -46,6 +46,12 @@ Jüdische Quellen, darunter der Babylonische Talmud (Sanhedrin 43a), sprechen vo
 
 ```Am Vorabend des Passahfestes hängte man Jeschu. Vierzig Tage vorher hatte der Herold ausgerufen: Er wird zur Steinigung hinausgeführt, weil er Zauberei getrieben und Israel verführt und abtrünnig gemacht hat; wer etwas zu seiner Verteidigung zu sagen hat, der komme und sage es. Da aber nichts zu seiner Verteidigung vorgebracht wurde, so hängte man ihn am Vorabend des Passahfestes.```
 
+# 6. Mara Bar-Serapion (ca. 2. Jahrhundert n. Chr.)
+
+Ein syrischer Philosoph schrieb einen Brief an seinen Sohn, in dem er über weise Männer sprach, die unschuldig getötet wurden – darunter Sokrates, Pythagoras und „der weise König der Juden“, eine klare Anspielung auf Jesus. Dort steht:
+
+```was hatten die Athener für einen Nutzen davon, daß sie Sokrates töteten, was ihnen mit Hungersnot und Pest vergolten wurde? oder die Samier von der Verbrennung des Pythagoras, da ihr ganzes Land in einem Augenblick vom Sand verschüttet wurde? oder die Juden von der Hinrichtung ihres weisen Königs, da ihnen von jener Zeit an das Reich weggenommen war? Denn gerechtermaßen nahm Gott Rache für jene drei Weisen: die Athener starben Hungers; die Samier wurden vom Meere bedeckt, die Juden umgebracht und aus ihrem Reiche vertrieben, leben allenthalben in der Zerstreuung. Sokrates ist nicht tot: wegen Platon, noch Pythagoras: wegen der Herastatue, noch der weise König: wegen der neuen Gesetze, die er gegeben hat```
+
 
 
 
