@@ -296,4 +296,29 @@ Andere historische Details sind präzise überliefert – warum sollte man die E
 Frühe Christen zitierten die Evangelien bereits im späten 1. Jahrhundert, was für eine frühere Abfassung spricht.
 Somit ist die gängige Begründung für die späte Datierung kein zwingender Beweis. Wenn man Jesus als Prophet betrachtet, der tatsächlich prophetische Aussagen machte, wäre es sogar logischer, dass die Evangelien vor 70 n. Chr. geschrieben wurden.
 
+---
+
+# Die Datierung des Lukasevangeliums anhand der Apostelgeschichte
+
+Ein wichtiger Hinweis darauf, dass das Lukasevangelium nicht nach 70 n. Chr. entstanden sein muss, ist die enge Verbindung zur Apostelgeschichte.
+
+-Das Lukasevangelium und die Apostelgeschichte wurden vom selben Autor verfasst – nämlich von Lukas, einem Begleiter des Apostels Paulus.
+-Lukas selbst beschreibt die Apostelgeschichte als Fortsetzung seines ersten Werkes (Lukas 1:1-4, Apostelgeschichte 1:1-2). Das bedeutet: Das Lukasevangelium wurde vor der Apostelgeschichte geschrieben.
+
+Wann wurde die Apostelgeschichte geschrieben?
+
+Die Apostelgeschichte endet abrupt mit Paulus' Aufenthalt in Rom (ca. 62 n. Chr.) – ohne seine Hinrichtung oder spätere Ereignisse wie die Christenverfolgung unter Nero (64 n. Chr.) oder die Zerstörung Jerusalems (70 n. Chr.).
+
+Wäre das Buch nach diesen Ereignissen verfasst worden, hätte Lukas sie höchstwahrscheinlich erwähnt – besonders, da Paulus eine zentrale Figur des Buches ist. Das Schweigen über seinen Tod legt nahe, dass die Apostelgeschichte vor 64 n. Chr. geschrieben wurde.
+
+Was bedeutet das für das Lukasevangelium?
+
+Da die Apostelgeschichte eine Fortsetzung des Lukasevangeliums ist, muss dieses noch früher geschrieben worden sein – vermutlich zwischen 58 und 62 n. Chr..
+
+Das bedeutet: Das Lukasevangelium wurde höchstwahrscheinlich vor der Zerstörung des Tempels (70 n. Chr.) verfasst und nicht erst danach, wie manche behaupten.
+
+Diese Schlussfolgerung macht eine frühe Entstehung der Evangelien insgesamt wahrscheinlicher und spricht gegen die Annahme, dass sie erst nach den Ereignissen geschrieben wurden, die sie angeblich „prophezeit“ haben.
+
+
+
 
