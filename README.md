@@ -173,3 +173,19 @@ Zum Vergleich: Bei anderen antiken Schriften beträgt die Lücke oft über 800 J
 Quellen:
 Philip Comfort: The Text of the Earliest New Testament Greek Manuscripts (Tyndale House, 1992)
 Craig Blomberg: Can We Still Believe the Bible? (Brazos Press, 2014)
+
+---
+
+# Die Übereinstimmung der Manuskripte
+
+Trotz der hohen Anzahl an Kopien gibt es keine wesentlichen inhaltlichen Abweichungen zwischen den Evangelien-Manuskripten.
+
+-Über 99% der Unterschiede betreffen nur Schreibfehler oder stilistische Variationen (z. B. „Jesus Christus“ vs. „Christus Jesus“).
+-Kein einziges zentrales theologisches Dogma wird durch Textvarianten beeinflusst.
+-Durch den Vergleich von Manuskripten aus verschiedenen Regionen kann gezeigt werden, dass der Text nicht absichtlich verändert wurde.
+
+Quellen:
+Kurt und Barbara Aland: The Text of the New Testament (Eerdmans, 1995)
+F. F. Bruce: The New Testament Documents: Are They Reliable? (Eerdmans, 1981)
+
+---
