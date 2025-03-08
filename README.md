@@ -1099,3 +1099,44 @@ Fazit: Das Neue Testament ist historisch zuverlässig
 -Sowohl römische, jüdische als auch christliche Quellen bestätigen die zentrale Geschichte Jesu und der frühen Kirche.
 
 Das Neue Testament ist kein mythologisches Werk, sondern eine historische Quelle, deren Kern durch zahlreiche Belege gestützt wird.
+
+---
+
+# Die Evangelien sind glaubwürdig!
+
+Gehen wir nochmal auf folgende Punkte ein, die wir uns am Anfang angeschaut haben.
+
+1. Die Entstehungszeit der Evangelien: Wurden sie in einer Zeit verfasst, in der Augenzeugen noch lebten und Irrtümer hätten korrigieren können?
+
+2. Die Übereinstimmung mit historischen und archäologischen Funden: Stützen außerbiblische Quellen die darin beschriebenen Ereignisse?
+
+3. Die Überlieferungstreue: Wurden die Texte zuverlässig weitergegeben oder im Laufe der Zeit verfälscht?
+
+4. Die innere Konsistenz: Sind die Berichte in sich schlüssig, oder gibt es Widersprüche?
+
+5. Die Motive der Verfasser: Hatten die Autoren einen Grund, Geschichten zu erfinden, oder wollten sie einfach die Wahrheit über Jesus bewahren?
+
+---
+
+1. Entstehungszeit:
+
+Die Evangelien wurden innerhalb der Lebenszeit von Augenzeugen Jesu geschrieben (ca. 60–100 n. Chr.). Irrtümer oder Fälschungen hätten leicht widerlegt werden können.
+
+2. Übereinstimmung mit historischen und archäologischen Funden:
+
+Personen wie Pontius Pilatus, Herodes Antipas und Kaiphas sowie Orte wie Bethesda, Kapernaum und der Siloah-Teich wurden durch Archäologie bestätigt. Außerbiblische Quellen (Josephus, Tacitus, Sueton) bestätigen zentrale Ereignisse.
+
+3. Überlieferungstreue:
+
+Die über 25.000 Manuskripte des Neuen Testaments zeigen, dass keine wesentlichen Veränderungen vorgenommen wurden. Textkritische Analysen bestätigen eine über 99%ige Übereinstimmung.
+
+4. Innere Konsistenz:
+
+Die Evangelien haben keine Widersprüche in der Kernaussage. Unterschiede in Details zeigen, dass sie unabhängige Augenzeugenberichte sind und nicht manipuliert wurden.
+
+5. Motive der Verfasser:
+
+Die Evangelisten hatten keinen weltlichen Vorteil, sondern wurden verfolgt. Sie starben für ihre Überzeugung – unwahrscheinlich, wenn sie gelogen hätten.
+
+Insgesamt spricht die historische, textkritische und archäologische Beweislage klar für die Zuverlässigkeit der Evangelien. Wir haben es also hier mit zuverlässigen Schriften zu tun, die wahre Ereignisse, und keine erfundenen Geschichten beschreiben. 
+
