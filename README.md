@@ -1239,6 +1239,151 @@ Emanuel Tov: Textual Criticism of the Hebrew Bible (1992)
 
 ---
 
+# Warum genau diese vier Evangelien? – Die ältesten und zuverlässigsten Schriften
+
+Eine der häufigsten Fragen zur Entstehung des Neuen Testaments ist: Warum wurden nur Matthäus, Markus, Lukas und Johannes als Evangelien anerkannt, während andere wie das Thomasevangelium oder das Judasevangelium ausgeschlossen wurden?
+
+Die Antwort liegt in der Textkritik, der historischen Beweislage und der Glaubwürdigkeit der Überlieferung.
+
+---
+
+# Die vier Evangelien sind die ältesten erhaltenen Berichte über Jesus
+
+A) Die Datierung der kanonischen Evangelien
+
+-Die vier Evangelien wurden zwischen ca. 60 und 100 n. Chr. geschrieben, also innerhalb der Lebenszeit der Augenzeugen Jesu.
+
+-Textkritische und historische Untersuchungen zeigen, dass keine anderen Evangelien eine so frühe Entstehung haben.
+
+| **Evangelium** | **Geschätztes Entstehungsdatum** | **Begründung** |
+|--------------|-------------------------|--------------------------------|
+| **Markus** | ca. **60–70 n. Chr.** | Ältestes Evangelium, keine Erwähnung der Tempelzerstörung (70 n. Chr.), aber Anspielungen darauf. |
+| **Matthäus** | ca. **70–85 n. Chr.** | Nutzt Markus als Vorlage, enthält zahlreiche jüdische Bezüge. |
+| **Lukas** | ca. **70–90 n. Chr.** | Schreibt vor der Apostelgeschichte (ca. 62–64 n. Chr.), verwendet Markus als Quelle. |
+| **Johannes** | ca. **90–100 n. Chr.** | Spätestes Evangelium, theologisch tiefgehend, aber unabhängig von den Synoptikern. |
+
+Ergebnis:
+
+Die vier Evangelien wurden innerhalb der ersten 70 Jahre nach Jesu Tod verfasst und stammen aus einer Zeit, in der Augenzeugen noch lebten und Falschinformationen hätten korrigieren können.
+
+B) Vergleich mit den apokryphen Evangelien
+
+Die sogenannten „apokryphen Evangelien“ (z. B. das Thomasevangelium, das Judasevangelium oder das Philippusevangelium) sind wesentlich später entstanden, oft erst im 2. oder 3. Jahrhundert n. Chr.
+
+| **Apokryphes Evangelium** | **Entstehungszeit** | **Problem** |
+|----------------------|-----------------|------------|
+| **Thomasevangelium** | ca. **140–200 n. Chr.** | Kein zusammenhängender Bericht, sondern eine Sammlung von Sprüchen. |
+| **Judasevangelium** | ca. **150–180 n. Chr.** | Spätere gnostische Fälschung, widerspricht jüdischem und christlichem Kontext. |
+| **Petrusevangelium** | ca. **150 n. Chr.** | Theologisch und historisch unzuverlässig, mit übernatürlichen Fantasiedetails. |
+| **Philippusevangelium** | ca. **200–250 n. Chr.** | Spätes gnostisches Werk mit mystischen Interpretationen. |
+
+Warum wurden diese nicht akzeptiert?
+
+-Sie sind viel später als die vier Evangelien entstanden.
+
+-Sie haben keinen direkten Bezug zu Augenzeugen Jesu.
+
+-Viele enthalten gnostische oder philosophische Einflüsse, die sich stark vom ursprünglichen jüdisch-christlichen Kontext unterscheiden.
+
+Die früheste und authentischste Überlieferung über Jesus findet sich in den vier kanonischen Evangelien.
+
+---
+
+# Textkritik: Die kanonischen Evangelien sind am besten belegt
+
+Textkritik ist die wissenschaftliche Methode zur Untersuchung der Überlieferung von antiken Schriften. Hier sind einige Schlüsselfakten über die Zuverlässigkeit der vier Evangelien im Vergleich zu anderen antiken Texten:
+
+A) Anzahl der erhaltenen Manuskripte
+
+-Das Neue Testament ist mit über 5.800 griechischen Manuskripten das am besten überlieferte Werk der Antike.
+
+-Die vier Evangelien sind in zahlreichen frühen Handschriften erhalten.
+
+| **Werk der Antike** | **Anzahl der Manuskripte** | **Zeitspanne zum Original** |
+|-------------------|------------------|------------------|
+| **Neues Testament (inkl. Evangelien)** | **5.800+ (griechisch)** | **30-100 Jahre** |
+| **Ilias (Homer)** | 1.800 | 400-500 Jahre |
+| **Caesars „Der Gallische Krieg“** | 250 | 1.000 Jahre |
+| **Platonische Schriften** | 210 | 1.200 Jahre |
+
+Fazit:
+
+Kein anderes antikes Dokument hat eine so zuverlässige Überlieferung wie die Evangelien.
+
+B) Zeitspanne zwischen Original und ältesten Kopien
+
+Die ältesten Handschriften der Evangelien stammen aus dem 2. Jahrhundert n. Chr., also nur wenige Jahrzehnte nach der Entstehung der Originaltexte.
+
+| **Ältestes Manuskript** | **Datierung** | **Evangelium** |
+|----------------|------------|-----------------|
+| **Papyrus P52** | ca. 125 n. Chr. | Fragment aus Johannes 18 |
+| **Papyrus P66** | ca. 200 n. Chr. | Enthält große Teile des Johannesevangeliums |
+| **Papyrus P75** | ca. 175–225 n. Chr. | Enthält große Teile von Lukas und Johannes |
+
+Fazit:
+
+-Die vier Evangelien sind textlich stabil und zuverlässig überliefert.
+
+-Es gibt keinen Platz für eine nachträgliche Manipulation durch die Kirche, da früheste Manuskripte bereits vorliegen.
+
+---
+
+# Die frühe Akzeptanz der vier Evangelien
+
+Bereits im 2. Jahrhundert n. Chr. wurden die vier Evangelien von den Kirchenvätern zitiert und als maßgeblich anerkannt.
+
+A) Wichtige historische Quellen zur Akzeptanz der Evangelien
+
+Irenäus von Lyon (ca. 180 n. Chr.)
+
+-Er bestätigt ausdrücklich, dass es vier Evangelien gibt – nicht mehr und nicht weniger.
+
+-Er argumentiert symbolisch: So wie es vier Himmelsrichtungen gibt, gibt es auch vier wahre Evangelien.
+
+Muratorisches Fragment (ca. 170 n. Chr.)
+
+-Eine der ältesten bekannten Listen des Neuen Testaments.
+
+-Enthält bereits die vier Evangelien als einzig autorisierte Schriften.
+
+Justin der Märtyrer (ca. 150 n. Chr.)
+
+-Zitiert die Evangelien als „Erinnerungen der Apostel“ und zeigt, dass sie schon früh in den Gemeinden gelesen wurden.
+
+Fazit:
+
+Schon 150 Jahre vor dem Konzil von Nizäa (325 n. Chr.) waren die vier Evangelien in der Kirche fest etabliert.
+
+---
+
+# Fazit: Warum genau diese vier Evangelien?
+
+ 1. Sie sind die ältesten Evangelien – innerhalb der Augenzeugenzeit geschrieben.
+
+ 2. Sie sind historisch und textlich am besten belegt – keine späteren Erfindungen oder Fälschungen.
+
+ 3. Sie wurden von der frühen Kirche akzeptiert – lange bevor es kirchliche Konzile gab.
+
+ 4. Sie sind konsistent in ihrer Theologie – im Gegensatz zu späteren apokryphen Evangelien.
+
+Die Auswahl der vier Evangelien war keine Willkür, sondern basiert auf ihrer Authentizität, Überlieferung und historischen Glaubwürdigkeit. 🚀
+
+---
+
+# Die Auswahl der Evangelien – Ein Zeichen für Authentizität
+
+Die Tatsache, dass nicht alle Evangelien in den biblischen Kanon aufgenommen wurden, zeigt, dass die frühe Kirche nicht einfach blind alles glaubte, sondern sorgfältig prüfte, welche Schriften authentisch und historisch zuverlässig waren.
+
+-Nur die ältesten und glaubwürdigsten Evangelien – Matthäus, Markus, Lukas und Johannes – wurden anerkannt, da sie aus der Augenzeugenzeit stammen und von frühen Christen bestätigt wurden.
+
+-Spätere, oft gnostische Schriften wie das Thomasevangelium (ca. 140–200 n. Chr.) oder das Judasevangelium (ca. 150–180 n. Chr.) wurden abgelehnt, weil sie theologisch fragwürdig oder historisch unzuverlässig waren.
+
+-Die frühen Kirchenväter wie Irenäus von Lyon (ca. 180 n. Chr.) bezeugten bereits, dass es nur vier Evangelien gibt – lange bevor kirchliche Konzile darüber entschieden.
+
+Fazit: Die Auswahl der vier Evangelien war kein willkürlicher Akt, sondern eine sorgfältige Entscheidung, die sich auf historische Authentizität, Augenzeugenberichte und zuverlässige Überlieferung stützte.
+
+---
+
 # Prophezeiungen über Jesus – Nachweis durch die Qumran-Rollen
 
 Eines der stärksten Argumente für die göttliche Inspiration der Bibel ist die detaillierte Vorhersage über das Leben, den Tod und die Auferstehung Jesu im Alten Testament. Kritiker könnten behaupten, dass diese Texte erst nach dem Leben Jesu geschrieben wurden – doch die Qumran-Rollen widerlegen dies.
