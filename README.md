@@ -1293,7 +1293,148 @@ Fazit: Die Auswahl der vier Evangelien war kein willkürlicher Akt, sondern eine
 
 Da wir jetzt gezeigt haben, dass die Texte glaubwürdig sind, sind auch die Ereignisse innerhalb dieser Texte glaubwürdig. Jesus ist also auferstanden. Aber für die Kritiker werden wir uns dieses Ereignis noch einmal genauer unter die Lupe nehmen und zeigen, dass es so passiert sein muss. 
 
-TODO:
+---
+
+# Das leere Grab
+
+A) Jesus wurde öffentlich begraben
+
+Alle vier Evangelien berichten, dass Josef von Arimathäa, ein Mitglied des jüdischen Hohen Rates, Jesus in einem bekannten Grab beisetzte (Matthäus 27:57-60).
+Wäre die Geschichte erfunden, hätte man eher eine unbekannte Person gewählt, nicht einen prominenten Mann, dessen Grab auffindbar war.
+
+B) Das Grab wurde leer vorgefunden
+
+Selbst die Gegner Jesu gaben zu, dass das Grab leer war:
+Matthäus 28:11-15 berichtet, dass die jüdischen Führer eine Lüge verbreiteten, die Jünger hätten den Leichnam gestohlen.
+Hätten die Römer oder die jüdische Führung den Leichnam gehabt, hätten sie ihn gezeigt, um das Christentum zu stoppen.
+
+---
+
+# Das bewachte Grab – Ein starkes Argument für die Auferstehung Jesu
+
+Ein oft übersehener, aber entscheidender Punkt für die Echtheit der Auferstehung ist die Bewachung des Grabes Jesu. Die Evangelien berichten, dass das Grab nicht nur versiegelt, sondern auch von römischen Soldaten bewacht wurde. Dies macht es äußerst unwahrscheinlich, dass der Leichnam gestohlen wurde oder dass eine Fälschung der Auferstehung stattgefunden hat.
+
+# Warum wurde das Grab überhaupt bewacht?
+
+Matthäus 27:62-66 berichtet, dass die jüdischen Führer zu Pilatus gingen und ihn baten, das Grab zu sichern:
+
+„Herr, wir erinnern uns, dass dieser Verführer sprach, als er noch lebte: ‚Nach drei Tagen werde ich auferstehen.‘ Darum befiehl, dass das Grab bis zum dritten Tag gesichert werde, damit nicht etwa seine Jünger kommen, ihn stehlen und dem Volk sagen: ‚Er ist von den Toten auferstanden.‘ So würde der letzte Betrug schlimmer sein als der erste.“
+
+-Die jüdischen Führer fürchteten nicht die Auferstehung an sich, sondern eine mögliche Inszenierung der Jünger.
+
+-Deshalb baten sie Pilatus, eine römische Wache vor das Grab zu stellen.
+
+Fazit:
+
+Die jüdischen Führer rechneten damit, dass die Jünger etwas versuchen könnten – das Grab war also gut gesichert.
+
+---
+
+# Wer bewachte das Grab? Römische Soldaten oder jüdische Tempelwachen?
+
+Laut Matthäus 27:65-66 gab Pilatus den Befehl, das Grab zu bewachen:
+
+„Pilatus sprach zu ihnen: ‚Ihr sollt eine Wache haben. Geht hin und sichert es, so gut ihr könnt.‘ Sie gingen hin, versiegelten den Stein und sicherten das Grab mit der Wache.“
+Es gibt zwei mögliche Erklärungen, wer die Wache stellte:
+
+Theorie 1: Römische Soldaten bewachten das Grab
+
+Römische Soldaten waren hochdiszipliniert und bei Flucht oder Pflichtvernachlässigung mit dem Tod bedroht.
+Apostelgeschichte 12:19 berichtet, dass Soldaten hingerichtet wurden, wenn ein Gefangener entkam – das galt auch für Bewachungsaufgaben.
+Hätten sie das Grab fahrlässig unbeaufsichtigt gelassen oder hätten die Jünger es ausgeraubt, hätten sie ihr Leben verloren.
+
+Theorie 2: Jüdische Tempelwachen bewachten das Grab
+
+Manche Gelehrte vermuten, dass Pilatus den jüdischen Tempelwachen die Bewachung erlaubte.
+Diese waren aber ebenfalls stark reglementiert und hätten nicht einfach geschlafen oder das Grab offen gelassen.
+
+Fazit:
+
+Egal ob römische oder jüdische Wachen – sie hatten einen starken Anreiz, ihre Aufgabe gewissenhaft zu erfüllen.
+
+---
+
+# Das Grab wurde versiegelt – eine weitere Sicherheit
+
+Matthäus 27:66 erwähnt eine Versiegelung des Steins.
+
+„Sie versiegelten den Stein und sicherten das Grab mit der Wache.“
+
+-Römische Siegel waren ein offizielles Zeichen des Imperiums – das Brechen eines solchen Siegels war ein schweres Verbrechen.
+
+-Wenn jemand das Siegel gebrochen hätte, wären die Wachen sofort alarmiert worden.
+
+Fazit:
+
+Das Grab war nicht nur bewacht, sondern auch offiziell versiegelt – ein Diebstahl wäre extrem schwierig gewesen.
+
+---
+
+# Was passierte mit der Wache?
+
+Matthäus 28:11-15 beschreibt, dass die Wachen nach der Auferstehung zu den jüdischen Führern gingen:
+
+„Und einige von der Wache kamen in die Stadt und berichteten den Hohenpriestern alles, was geschehen war. Und sie gaben den Soldaten viel Geld und sagten: ‚Sagt: Seine Jünger sind in der Nacht gekommen und haben ihn gestohlen, während wir schliefen.‘“
+
+Warum bestachen die jüdischen Führer die Soldaten?
+
+Wenn die Jünger den Leichnam gestohlen hätten, hätte man sie verfolgt und bestraft – doch stattdessen versuchten die jüdischen Führer, die Wachen zum Schweigen zu bringen.
+Die Erklärung „Wir haben geschlafen“ macht keinen Sinn:
+Eine römische Wache schläft nicht einfach ein – das hätte mit dem Tod bestraft werden können.
+Wenn sie schliefen, woher wussten sie dann, dass die Jünger den Leichnam gestohlen haben?
+
+Fazit:
+
+Die jüdischen Führer wussten, dass etwas Unerklärliches passiert war – deshalb bestachen sie die Soldaten.
+
+---
+
+# Warum ist das bewachte Grab ein starkes Argument für die Auferstehung?
+
+### **Warum das bewachte Grab ein starkes Argument für die Auferstehung ist**  
+
+| **Mögliches Szenario** | **Warum es unwahrscheinlich ist** |
+|-----------------------|--------------------------------|
+| **Die Jünger stahlen den Leichnam** | Das Grab war bewacht und versiegelt – ein Diebstahl wäre unmöglich gewesen. |
+| **Die Soldaten schliefen ein** | Hochdisziplinierte römische Soldaten schlafen nicht alle gleichzeitig. |
+| **Jesus erwachte aus der Ohnmacht und entkam** | Ein gefolterter, gekreuzigter Mann hätte keinen schweren Stein wegrollen können und Wachen überwältigen können. |
+| **Die Wachen flohen aus Angst** | Dann hätten sie schwere Strafen erwartet – doch stattdessen wurden sie von den jüdischen Führern bezahlt. |
+
+Fazit:
+
+-Das Grab wurde bewacht und versiegelt, doch trotzdem war es am dritten Tag leer.
+
+-Wäre der Leichnam gestohlen worden, hätten die Gegner Jesu ihn vorzeigen können – doch das geschah nie.
+
+-Die beste Erklärung ist, dass Jesus wirklich auferstanden ist. 🚀
+
+---
+
+# Viele Zeugen sahen den auferstandenen Jesus
+
+A) Die Berichte von Paulus
+
+1. Korinther 15:3-8 (geschrieben ca. 55 n. Chr.) ist eine der ältesten Zeugnisse über die Auferstehung:
+„Jesus ist erschienen zuerst Kephas (Petrus), dann den Zwölf. Danach ist er mehr als 500 Brüdern zugleich erschienen, von denen die meisten noch leben […]. Danach erschien er Jakobus, dann allen Aposteln. Zuletzt aber auch mir.“
+
+B) 500 Augenzeugen – schwer zu widerlegen
+
+Paulus schreibt, dass viele der 500 Zeugen noch leben, als er den Brief schreibt (ca. 20-25 Jahre nach der Auferstehung).
+Hätten Kritiker beweisen können, dass Jesus nicht auferstanden war, wäre das Christentum widerlegt worden – aber es gab keinen Gegenbeweis.
+
+C) Die Jünger glaubten wirklich an die Erscheinungen
+
+Die Jünger verhielten sich nach der Auferstehung völlig anders als vorher:
+Vorher: Angst, Zweifel, Flucht (Markus 14:50-52).
+Nachher: Mut, öffentliche Predigten, Bereitschaft zum Märtyrertod.
+
+Fazit:
+
+So viele Augenzeugen wären schwer zu täuschen oder zu einer Massenhalluzination zu bewegen.
+
+---
+
+
 
 ---
 
