@@ -2112,4 +2112,8 @@ Die Jünger waren bereit, alles aufzugeben, weil sie glaubten, dass Jesus wirkli
 
 Die Fakten zeigen: Die Erfüllung der messianischen Prophetien war keine bewusste Manipulation durch die Evangelisten – sondern ein realer historischer Ablauf. 
 
+---
+
+
+
 
