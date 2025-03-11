@@ -1357,6 +1357,68 @@ Um diese Wahrscheinlichkeit darzustellen, müsste man 5 × 10⁸⁷⁶ Universen
 
 ---
 
+# 0,5, ein sehr großzügig gewählter Faktor
+
+Für die oben erwähnte Berechnung haben wir angenommen, dass die Wahrscheinlichkeit des Eintreffens einer Prophezeiung bei 50 Prozent liegt. Dies ist jedoch in der Realität keinesfalls der Fall. Deshalb werden wir uns noch anhand eines Beispiels anschauen, wie wahrscheinlich dies in Wirklichkeit ist.
+
+Wie hoch ist die Wahrscheinlichkeit, dass eine zufällige Aussage über Jesus in der Zukunft exakt wahr geworden wäre?
+Die Wahrscheinlichkeit, dass eine zufällige Prophezeiung über eine bestimmte Person in der Zukunft exakt eintritt, hängt von mehreren Faktoren ab:
+
+Spezifität der Aussage – Je genauer eine Vorhersage ist, desto unwahrscheinlicher ist es, dass sie zufällig eintrifft.
+Zeitraum bis zur Erfüllung – Je weiter die Prophezeiung in der Zukunft liegt, desto unwahrscheinlicher ist eine zufällige Erfüllung.
+Einfluss externer Faktoren – Eine vage Vorhersage kann sich durch menschliches Zutun oder Zufall teilweise erfüllen, aber spezifische Details sind schwerer zufällig zu treffen.
+
+Berechnung: Wahrscheinlichkeit einer zufälligen Erfüllung
+
+Lassen wir uns eine zufällige Vorhersage über eine historische Person treffen und berechnen, wie wahrscheinlich es ist, dass sie zufällig eintritt.
+
+Beispiel einer zufälligen Prophezeiung über Jesus:
+
+„Der Messias wird in einer kleinen Stadt geboren, wird abgelehnt, wird mit Kriminellen sterben, wird für 30 Silberlinge verraten und am dritten Tag auferstehen.“
+
+Für eine Schätzung der Wahrscheinlichkeit nehmen wir einige Schlüsselfaktoren und bewerten sie statistisch:
+
+### **Wahrscheinlichkeit einer zufälligen Erfüllung von Prophezeiungen über Jesus**  
+
+| **Ereignis** | **Geschätzte Wahrscheinlichkeit** |
+|------------------------------|----------------------------|
+| Geburt in einer bestimmten Stadt (z. B. Bethlehem) | **1 zu 10.000** |
+| Ablehnung durch das Volk | **1 zu 5** |
+| Tod mit Kriminellen | **1 zu 100** |
+| Verrat für einen festgelegten Betrag (30 Silberlinge) | **1 zu 1.000** |
+| Keine Knochen werden gebrochen | **1 zu 200** |
+| Begraben im Grab eines Reichen | **1 zu 1.000** |
+| Auferstehung am dritten Tag (übernatürlich) | **1 zu 1.000.000** (kein akkurater Wert, natürlich schwer zu sagen) |
+
+### **Gesamtwahrscheinlichkeit**  
+
+Jetzt multiplizieren wir diese Wahrscheinlichkeiten:
+
+P = (1/10.000) × (1/5) × (1/100) × (1/1.000) × (1/200) × (1/1.000) × (1/1.000.000)
+
+P ≈ 1 zu 10³⁰ (1 zu 1.000.000.000.000.000.000.000.000.000)
+
+### **Vergleich mit anderen Wahrscheinlichkeiten**  
+
+| **Ereignis** | **Wahrscheinlichkeit** |
+|---------------------------------|----------------------|
+| Vom Blitz getroffen zu werden | **1 zu 700.000** |
+| Lotto 6 aus 49 zu gewinnen | **1 zu 140 Millionen** |
+| Eine einzelne Ameise auf der Erde zufällig auszuwählen | **1 zu 10¹⁵** |
+| Ein bestimmtes Sandkorn auf der Erde zufällig auszuwählen | **1 zu 10²³** |
+| Ein bestimmtes Atom im Universum auszuwählen | **1 zu 10⁷⁸** |
+| Dass sich 300 biblische Prophezeiungen zufällig erfüllen | **1 zu 10⁶⁰⁰** |
+
+Fazit
+
+-Die Erfüllung der messianischen Prophezeiungen war kein Zufall.
+
+-Statistisch gesehen ist es praktisch unmöglich, dass eine zufällige Aussage über Jesus exakt wahr geworden wäre.
+
+-Je spezifischer eine Prophetie ist, desto unwahrscheinlicher ist ihre zufällige Erfüllung – die Bibel enthält jedoch über 300 messianische Vorhersagen, die alle eingetroffen sind.
+
+---
+
 # Wurden die biblischen Prophezeiungen erst nach ihrem Eintreten niedergeschrieben? – Ein Blick auf die Qumran-Rollen
 
 Eine der häufigsten Kritiken an biblischen Prophetien ist die Behauptung, dass sie möglicherweise erst nach dem Eintreten der vorhergesagten Ereignisse aufgeschrieben wurden. Wenn dies zuträfe, wäre ihr Wert als echte Vorhersagen stark reduziert. Doch durch archäologische Funde – insbesondere die Qumran-Rollen (auch bekannt als die Schriftrollen vom Toten Meer) – lässt sich nachweisen, dass viele biblische Prophetien Jahrhunderte vor ihrer Erfüllung niedergeschrieben wurden.
