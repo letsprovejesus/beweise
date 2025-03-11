@@ -1150,95 +1150,6 @@ TODO:
 
 ---
 
-# Prophetie in der Bibel – Ein Blick auf übernatürliche Vorhersagen
-
-Eines der faszinierendsten Merkmale der Bibel ist die Prophetie – Vorhersagen zukünftiger Ereignisse, die sich später genau erfüllt haben. Während viele religiöse Schriften allgemeine oder symbolische Aussagen enthalten, finden sich in der Bibel zahlreiche detaillierte Prophezeiungen, die oft Hunderte von Jahren vor ihrer Erfüllung niedergeschrieben wurden.
-
-Besonders im Alten Testament gibt es Prophezeiungen, die die Geburt, das Leben, den Tod und die Auferstehung Jesu vorhersagen – lange bevor sie eintrafen. Doch auch historische Ereignisse, wie die Zerstörung Jerusalems, das Aufkommen bestimmter Weltreiche oder die Zerstreuung und Wiederherstellung Israels, wurden genau vorausgesagt.
-
-Bevor wir auf bestimmte Prophezeiungen eingehen, schauen wir uns erst einmal an, wie viele dieser Prophezeiungen es in der Bibel gibt und wie wahrscheinlich deren zufällige Erfüllung wäre. 
-
-Prophetien sind Vorhersagen in der Heiligen Schrift. Wenn sie sich zu einem späteren Zeitpunkt exakt erfüllen, könnte dies ein starkes Indiz für die göttliche Herkunft der Bibel sein. Lassen Sie uns eine dieser bemerkenswerten Vorhersagen betrachten.
-
-Die Prophezeiung über die Zerstörung von Tyrus
-
-Im Buch Hesekiel kündigt die Bibel die Zerstörung der Metropole Tyrus an. Doch die Prophetie geht noch weiter: Es wird vorhergesagt, dass alle Trümmer der Stadt ins Meer geworfen werden (Hesekiel 26:12).
-
-Ein Blick in die Geschichte:
-
-Tatsächlich wird Tyrus zerstört – doch die Trümmer bleiben lange Zeit liegen. Zweieinhalb Jahrhunderte später beginnt Alexander der Große seinen Feldzug gegen eine Inselstadt nahe des zerstörten Tyrus. Da seine Flotte nicht ausreicht, um die Insel zu erobern, entwickelt er einen außergewöhnlichen Plan: Er lässt die Ruinen der alten Stadt ins Wasser werfen, um damit eine Landbrücke zur Insel zu errichten.
-
-Damit erfüllt sich die biblische Prophezeiung wörtlich: Die Trümmer der Stadt werden ins Meer geschmissen.
-
-Wie viele biblische Prophetien haben sich erfüllt?
-
-In der Bibel finden wir 3.268 Prophetien, die sich im Laufe der Geschichte erfüllt haben. Doch nicht eine einzige biblische Vorhersage hat sich jemals als falsch erwiesen.
-
-Wie wahrscheinlich ist es, dass sich all diese Prophetien einfach nur zufällig erfüllt haben?
-
-Die Wahrscheinlichkeit der Zufallserfüllung biblischer Prophetien
-
-Nehmen wir an, dass jede Prophetie eine Grundwahrscheinlichkeit von 50 % hat – also eine 50 %ige Chance, dass sie sich erfüllt, und eine 50 %ige Chance, dass sie nicht eintrifft. In Wahrheit sind die meisten Prophetien weit unwahrscheinlicher, aber bleiben wir bei dieser Annahme.
-
-Die Berechnung folgt den Regeln der Wahrscheinlichkeitsrechnung:
-
-Wir multiplizieren die Grundwahrscheinlichkeit 0,5 mit sich selbst – und das 3.268 Mal.
-
-Das Ergebnis: 1,7 × 10⁻⁹⁸⁴ (eine 1 mit 983 Nullen nach dem Komma).
-
-Diese Wahrscheinlichkeit ist so extrem gering, dass wir uns das kaum vorstellen können. Versuchen wir es bildlich:
-
-Veranschaulichung der Wahrscheinlichkeit:
-
-1. Eine rote Ameise in einer Badewanne voller schwarzer Ameisen
-
-Die Wahrscheinlichkeit, aus dieser Badewanne zufällig die rote Ameise zu ziehen, entspricht etwa der Wahrscheinlichkeit, dass sich 25 biblische Prophetien zufällig erfüllt haben.
-
-2. Portugal mit einer 5 Meter dicken Ameisenschicht überzogen
-
-Die Wahrscheinlichkeit, mit verbundenen Augen irgendwo in Portugal zu landen und zufällig die einzige rote Ameise herauszuziehen, entspricht der Wahrscheinlichkeit, dass sich 65 Prophetien zufällig erfüllt haben.
-
-3. Die gesamte Erde mit einer 10 Meter dicken Ameisenschicht bedeckt
-
-Darunter befindet sich eine einzige rote Ameise. Die Wahrscheinlichkeit, sie zufällig herauszuziehen, entspricht der Wahrscheinlichkeit, dass sich 78 Prophetien zufällig erfüllt haben.
-
-4. Das gesamte Universum voller Ameisen
-
-Das bekannte Universum hat einen Durchmesser von rund 30 Milliarden Lichtjahren. Nun füllen wir das ganze Universum mit Ameisen – und darunter ist eine einzige rote Ameise. Die Wahrscheinlichkeit, sie zu finden, entspricht der Wahrscheinlichkeit, dass sich 288 biblische Prophetien zufällig erfüllt haben.
-
-Doch es gibt 3.268 erfüllte Prophetien in der Bibel!
-
-Um diese Wahrscheinlichkeit darzustellen, müsste man 5 × 10⁸⁷⁶ Universen mit Ameisen füllen.
-
----
-
-# Wurden die biblischen Prophezeiungen erst nach ihrem Eintreten niedergeschrieben? – Ein Blick auf die Qumran-Rollen
-
-Eine der häufigsten Kritiken an biblischen Prophetien ist die Behauptung, dass sie möglicherweise erst nach dem Eintreten der vorhergesagten Ereignisse aufgeschrieben wurden. Wenn dies zuträfe, wäre ihr Wert als echte Vorhersagen stark reduziert. Doch durch archäologische Funde – insbesondere die Qumran-Rollen (auch bekannt als die Schriftrollen vom Toten Meer) – lässt sich nachweisen, dass viele biblische Prophetien Jahrhunderte vor ihrer Erfüllung niedergeschrieben wurden.
-
----
-
-# Was sind die Qumran-Rollen?
-
-Die Qumran-Rollen wurden zwischen 1947 und 1956 in Höhlen nahe des Toten Meeres entdeckt. Diese Handschriften sind über 2.000 Jahre alt und enthalten unter anderem Teile aller alttestamentlichen Bücher (außer Esther).
-
-Besonders bedeutend ist der Fund des Jesaja-Buches, das fast vollständig erhalten ist.
-
-Dieses Buch enthält zahlreiche Prophezeiungen über den Messias, die sich später in Jesus erfüllten.
-Die Handschrift wurde auf ca. 125 v. Chr. datiert – lange vor der Geburt Jesu.
-
-Bedeutung der Qumran-Rollen:
-
-Sie beweisen, dass die alttestamentlichen Texte mit ihren Prophetien nicht erst nachträglich verfasst wurden.
-Der Text des Buches Jesaja ist fast identisch mit späteren Handschriften – das zeigt, dass der biblische Text über Jahrhunderte hinweg zuverlässig überliefert wurde.
-
-Quellen:
-
-Millar Burrows: The Dead Sea Scrolls (1955)
-Emanuel Tov: Textual Criticism of the Hebrew Bible (1992)
-
----
-
 # Warum genau diese vier Evangelien? – Die ältesten und zuverlässigsten Schriften
 
 Eine der häufigsten Fragen zur Entstehung des Neuen Testaments ist: Warum wurden nur Matthäus, Markus, Lukas und Johannes als Evangelien anerkannt, während andere wie das Thomasevangelium oder das Judasevangelium ausgeschlossen wurden?
@@ -1381,6 +1292,95 @@ Die Tatsache, dass nicht alle Evangelien in den biblischen Kanon aufgenommen wur
 -Die frühen Kirchenväter wie Irenäus von Lyon (ca. 180 n. Chr.) bezeugten bereits, dass es nur vier Evangelien gibt – lange bevor kirchliche Konzile darüber entschieden.
 
 Fazit: Die Auswahl der vier Evangelien war kein willkürlicher Akt, sondern eine sorgfältige Entscheidung, die sich auf historische Authentizität, Augenzeugenberichte und zuverlässige Überlieferung stützte.
+
+---
+
+# Prophetie in der Bibel – Ein Blick auf übernatürliche Vorhersagen
+
+Eines der faszinierendsten Merkmale der Bibel ist die Prophetie – Vorhersagen zukünftiger Ereignisse, die sich später genau erfüllt haben. Während viele religiöse Schriften allgemeine oder symbolische Aussagen enthalten, finden sich in der Bibel zahlreiche detaillierte Prophezeiungen, die oft Hunderte von Jahren vor ihrer Erfüllung niedergeschrieben wurden.
+
+Besonders im Alten Testament gibt es Prophezeiungen, die die Geburt, das Leben, den Tod und die Auferstehung Jesu vorhersagen – lange bevor sie eintrafen. Doch auch historische Ereignisse, wie die Zerstörung Jerusalems, das Aufkommen bestimmter Weltreiche oder die Zerstreuung und Wiederherstellung Israels, wurden genau vorausgesagt.
+
+Bevor wir auf bestimmte Prophezeiungen eingehen, schauen wir uns erst einmal an, wie viele dieser Prophezeiungen es in der Bibel gibt und wie wahrscheinlich deren zufällige Erfüllung wäre. 
+
+Prophetien sind Vorhersagen in der Heiligen Schrift. Wenn sie sich zu einem späteren Zeitpunkt exakt erfüllen, könnte dies ein starkes Indiz für die göttliche Herkunft der Bibel sein. Lassen Sie uns eine dieser bemerkenswerten Vorhersagen betrachten.
+
+Die Prophezeiung über die Zerstörung von Tyrus
+
+Im Buch Hesekiel kündigt die Bibel die Zerstörung der Metropole Tyrus an. Doch die Prophetie geht noch weiter: Es wird vorhergesagt, dass alle Trümmer der Stadt ins Meer geworfen werden (Hesekiel 26:12).
+
+Ein Blick in die Geschichte:
+
+Tatsächlich wird Tyrus zerstört – doch die Trümmer bleiben lange Zeit liegen. Zweieinhalb Jahrhunderte später beginnt Alexander der Große seinen Feldzug gegen eine Inselstadt nahe des zerstörten Tyrus. Da seine Flotte nicht ausreicht, um die Insel zu erobern, entwickelt er einen außergewöhnlichen Plan: Er lässt die Ruinen der alten Stadt ins Wasser werfen, um damit eine Landbrücke zur Insel zu errichten.
+
+Damit erfüllt sich die biblische Prophezeiung wörtlich: Die Trümmer der Stadt werden ins Meer geschmissen.
+
+Wie viele biblische Prophetien haben sich erfüllt?
+
+In der Bibel finden wir 3.268 Prophetien, die sich im Laufe der Geschichte erfüllt haben. Doch nicht eine einzige biblische Vorhersage hat sich jemals als falsch erwiesen.
+
+Wie wahrscheinlich ist es, dass sich all diese Prophetien einfach nur zufällig erfüllt haben?
+
+Die Wahrscheinlichkeit der Zufallserfüllung biblischer Prophetien
+
+Nehmen wir an, dass jede Prophetie eine Grundwahrscheinlichkeit von 50 % hat – also eine 50 %ige Chance, dass sie sich erfüllt, und eine 50 %ige Chance, dass sie nicht eintrifft. In Wahrheit sind die meisten Prophetien weit unwahrscheinlicher, aber bleiben wir bei dieser Annahme.
+
+Die Berechnung folgt den Regeln der Wahrscheinlichkeitsrechnung:
+
+Wir multiplizieren die Grundwahrscheinlichkeit 0,5 mit sich selbst – und das 3.268 Mal.
+
+Das Ergebnis: 1,7 × 10⁻⁹⁸⁴ (eine 1 mit 983 Nullen nach dem Komma).
+
+Diese Wahrscheinlichkeit ist so extrem gering, dass wir uns das kaum vorstellen können. Versuchen wir es bildlich:
+
+Veranschaulichung der Wahrscheinlichkeit:
+
+1. Eine rote Ameise in einer Badewanne voller schwarzer Ameisen
+
+Die Wahrscheinlichkeit, aus dieser Badewanne zufällig die rote Ameise zu ziehen, entspricht etwa der Wahrscheinlichkeit, dass sich 25 biblische Prophetien zufällig erfüllt haben.
+
+2. Portugal mit einer 5 Meter dicken Ameisenschicht überzogen
+
+Die Wahrscheinlichkeit, mit verbundenen Augen irgendwo in Portugal zu landen und zufällig die einzige rote Ameise herauszuziehen, entspricht der Wahrscheinlichkeit, dass sich 65 Prophetien zufällig erfüllt haben.
+
+3. Die gesamte Erde mit einer 10 Meter dicken Ameisenschicht bedeckt
+
+Darunter befindet sich eine einzige rote Ameise. Die Wahrscheinlichkeit, sie zufällig herauszuziehen, entspricht der Wahrscheinlichkeit, dass sich 78 Prophetien zufällig erfüllt haben.
+
+4. Das gesamte Universum voller Ameisen
+
+Das bekannte Universum hat einen Durchmesser von rund 30 Milliarden Lichtjahren. Nun füllen wir das ganze Universum mit Ameisen – und darunter ist eine einzige rote Ameise. Die Wahrscheinlichkeit, sie zu finden, entspricht der Wahrscheinlichkeit, dass sich 288 biblische Prophetien zufällig erfüllt haben.
+
+Doch es gibt 3.268 erfüllte Prophetien in der Bibel!
+
+Um diese Wahrscheinlichkeit darzustellen, müsste man 5 × 10⁸⁷⁶ Universen mit Ameisen füllen.
+
+---
+
+# Wurden die biblischen Prophezeiungen erst nach ihrem Eintreten niedergeschrieben? – Ein Blick auf die Qumran-Rollen
+
+Eine der häufigsten Kritiken an biblischen Prophetien ist die Behauptung, dass sie möglicherweise erst nach dem Eintreten der vorhergesagten Ereignisse aufgeschrieben wurden. Wenn dies zuträfe, wäre ihr Wert als echte Vorhersagen stark reduziert. Doch durch archäologische Funde – insbesondere die Qumran-Rollen (auch bekannt als die Schriftrollen vom Toten Meer) – lässt sich nachweisen, dass viele biblische Prophetien Jahrhunderte vor ihrer Erfüllung niedergeschrieben wurden.
+
+---
+
+# Was sind die Qumran-Rollen?
+
+Die Qumran-Rollen wurden zwischen 1947 und 1956 in Höhlen nahe des Toten Meeres entdeckt. Diese Handschriften sind über 2.000 Jahre alt und enthalten unter anderem Teile aller alttestamentlichen Bücher (außer Esther).
+
+Besonders bedeutend ist der Fund des Jesaja-Buches, das fast vollständig erhalten ist.
+
+Dieses Buch enthält zahlreiche Prophezeiungen über den Messias, die sich später in Jesus erfüllten.
+Die Handschrift wurde auf ca. 125 v. Chr. datiert – lange vor der Geburt Jesu.
+
+Bedeutung der Qumran-Rollen:
+
+Sie beweisen, dass die alttestamentlichen Texte mit ihren Prophetien nicht erst nachträglich verfasst wurden.
+Der Text des Buches Jesaja ist fast identisch mit späteren Handschriften – das zeigt, dass der biblische Text über Jahrhunderte hinweg zuverlässig überliefert wurde.
+
+Quellen:
+
+Millar Burrows: The Dead Sea Scrolls (1955)
+Emanuel Tov: Textual Criticism of the Hebrew Bible (1992)
 
 ---
 
