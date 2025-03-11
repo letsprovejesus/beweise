@@ -1142,14 +1142,6 @@ Insgesamt spricht die historische, textkritische und archäologische Beweislage 
 
 ---
 
-# Beweise für die Auferstehung
-
-Da wir jetzt gezeigt haben, dass die Texte glaubwürdig sind, sind auch die Ereignisse innerhalb dieser Texte glaubwürdig. Jesus ist also auferstanden. Aber für die Kritiker werden wir uns dieses Ereignis noch einmal genauer unter die Lupe nehmen und zeigen, dass es so passiert sein muss. 
-
-TODO:
-
----
-
 # Warum genau diese vier Evangelien? – Die ältesten und zuverlässigsten Schriften
 
 Eine der häufigsten Fragen zur Entstehung des Neuen Testaments ist: Warum wurden nur Matthäus, Markus, Lukas und Johannes als Evangelien anerkannt, während andere wie das Thomasevangelium oder das Judasevangelium ausgeschlossen wurden?
@@ -1292,6 +1284,14 @@ Die Tatsache, dass nicht alle Evangelien in den biblischen Kanon aufgenommen wur
 -Die frühen Kirchenväter wie Irenäus von Lyon (ca. 180 n. Chr.) bezeugten bereits, dass es nur vier Evangelien gibt – lange bevor kirchliche Konzile darüber entschieden.
 
 Fazit: Die Auswahl der vier Evangelien war kein willkürlicher Akt, sondern eine sorgfältige Entscheidung, die sich auf historische Authentizität, Augenzeugenberichte und zuverlässige Überlieferung stützte.
+
+---
+
+# Beweise für die Auferstehung
+
+Da wir jetzt gezeigt haben, dass die Texte glaubwürdig sind, sind auch die Ereignisse innerhalb dieser Texte glaubwürdig. Jesus ist also auferstanden. Aber für die Kritiker werden wir uns dieses Ereignis noch einmal genauer unter die Lupe nehmen und zeigen, dass es so passiert sein muss. 
+
+TODO:
 
 ---
 
