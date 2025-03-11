@@ -12,6 +12,8 @@ In diesem Buch werde ich auf diese Beweise und Argumente eingehen. Ich bin kein 
 
 Ein weiterer Punkt, weshalb ich dies schreibe, ist, weil es aus meiner Sicht total wichtig ist nicht "einfach nur zu glauben". Viele sagen ja, man bräuchte keine Beweise und Indizien, der reine Glaube würde reichen. Das sehe ich überhauot nicht so. Woher soll man denn wissen, dass diese Religion / der Glaube der richtige ist? Weil man diesen Glauben von der Familie übernommen hat? Weil sich der Glaube für jemanden gut anfühlt? Aus meiner Sicht ziemlich schlechte Kriterien. Meiner Meinung nach muss das durch rationale Argumente / Indizien passieren. 
 
+Wenn dich bestimmte in diesem Buch erwähnte Themen genauer interessieren, würde ich dir dazu raten, dich mal im Internet noch darüber zu informieren. Gerade auf Youtube gibt es so eine riesige Anzahl an Videos über Prophetie und viele andere Themen, durch die du noch viel genauer ins Detail gehen kannst. Mein Ziel ist es, einen groben Überblick zu geben.
+
 ---
 
 # War Jesus eine historische Person? – Ein Blick auf die Beweislage
