@@ -2691,3 +2691,57 @@ Enthalten Namen biblischer Persönlichkeiten wie Baruch, den Schreiber des Proph
 Die ägyptische Merenptah-Stele
 
 Enthält die älteste außerbiblische Erwähnung Israels als Volk (ca. 1200 v. Chr.).
+
+---
+
+Die Kurkh-Stele (853 v. Chr.)
+
+Erwähnt König Ahab von Israel in Zusammenhang mit einer Schlacht gegen die Assyrer, bestätigt Ereignisse aus 1. Könige 16–22.
+
+---
+
+Die Zylinderinschrift von Kyros (539 v. Chr.)
+
+Beschreibt die Eroberung Babylons durch den persischen König Kyros den Großen, wodurch die biblischen Berichte in Esra 1 historisch bestätigt werden.
+
+---
+
+Der Taylor-Prisma (Sanherib-Prisma, ca. 691 v. Chr.)
+
+Assyrischer Text, der die Belagerung Jerusalems unter König Sanherib dokumentiert und Hiskias Herrschaft bestätigt (2. Könige 18–19).
+
+---
+
+Pharao Scheschonks Relief in Karnak (925 v. Chr.)
+
+Ägyptisches Relief, das den Feldzug des ägyptischen Pharaos Scheschonk I. (Schischak) gegen Juda und Israel erwähnt (1. Könige 14,25-26).
+
+---
+
+Die babylonische Chronik (Nebukadnezar-Chronik, 597–586 v. Chr.)
+
+Keilschrifttafel, die die Belagerung und Eroberung Jerusalems durch Nebukadnezar II. dokumentiert, bestätigt in 2. Könige 24–25.
+
+---
+
+Die Tontafeln von Nuzi (15.–14. Jh. v. Chr.)
+
+Diese Tontafeln bestätigen kulturelle und soziale Bräuche, wie sie im Buch Genesis beschrieben werden, etwa Adoption und Erbschaftsregelungen.
+
+---
+
+Die Inschrift von Balaam (Tell Deir Alla, ca. 800 v. Chr.)
+
+Enthält prophetische Texte und erwähnt den Propheten Balaam, der im Buch Numeri (Kapitel 22–24) auftaucht.
+
+---
+
+Der Nimrud-Tempel (Assyrien, 9. Jh. v. Chr.)
+
+Reliefs und Inschriften, die verschiedene Könige Israels erwähnen und Interaktionen mit dem assyrischen Reich bestätigen.
+
+---
+
+Das Relief von Tiglat-Pileser III. (745–727 v. Chr.)
+
+Assyrische Inschrift und Relief, die die Deportation israelitischer Stämme dokumentieren, passend zu den Berichten im 2. Könige 15.
