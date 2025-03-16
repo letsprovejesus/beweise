@@ -2439,3 +2439,99 @@ Diese genannten Merkmale und Details sprechen für viele Forscher und Gläubige 
 
 ---
 
+Die fehlenden künstlerischen Parallelen aus dem Mittelalter
+
+Das Turiner Grabtuch unterscheidet sich radikal von sämtlichen mittelalterlichen Darstellungen Jesu. Mittelalterliche Künstler stellten Jesus meist mit Nägeln in den Handflächen dar, nicht in den Handgelenken.
+Zudem wurde Jesus meist idealisiert dargestellt, während das Grabtuch einen Mann mit realistischen Wunden, Verletzungen und anatomisch exakten Details zeigt.
+
+---
+
+Historische Erwähnungen (Mandylion von Edessa)
+
+Einige Forscher vertreten die Theorie, dass das Turiner Grabtuch mit dem Mandylion von Edessa identisch sei, einem Tuch, das ab dem 6. Jahrhundert dokumentiert wurde und angeblich das Antlitz Jesu zeigte.
+Dieses Tuch verschwand später historisch aus Edessa (heutige Türkei). Es wird vermutet, dass es über Konstantinopel schließlich nach Europa gelangte und schließlich das heutige Turiner Grabtuch sein könnte. Wenn dies korrekt wäre, würde die Geschichte des Grabtuchs weit vor das Mittelalter zurückreichen.
+
+---
+
+Stimmigkeit mit jüdischen Begräbnissitten
+
+Das Tuch und die dargestellte Beisetzung stimmen mit jüdischen Beerdigungssitten zur Zeit Jesu überein. Beispielsweise wurde Jesu Körper in ein Leinentuch eingewickelt, ohne ihn zu waschen (wegen der Eile des bevorstehenden Sabbats). Die korrekte Anwendung solcher Traditionen wäre mittelalterlichen Fälschern kaum bekannt gewesen.
+
+---
+
+Verzerrungsfreies Bild auf einem flachen Tuch
+
+Das Grabtuch enthält ein realistisches, verzerrungsfreies Bild, obwohl es eigentlich schwierig ist, einen dreidimensionalen Körper auf ein flaches Tuch abzubilden, ohne Verzerrungen zu erzeugen.
+Dies könnte darauf hindeuten, dass das Bild durch einen einzigartigen Prozess entstanden ist (z.B. eine strahlungsartige Projektion vom Körper ausgehend).
+
+---
+
+Keine Hinweise auf Korrekturen oder künstlerische Fehler
+
+In der gesamten Abbildung wurden keine typischen Korrekturspuren entdeckt. Wenn ein Künstler das Bild gemalt oder erstellt hätte, wären zumindest kleine Fehler oder Überarbeitungen wahrscheinlich zu finden.
+Das Fehlen solcher Spuren deutet an, dass das Bild spontan und auf einmal entstanden sein könnte.
+
+---
+
+Tatsächlich hat neben Giulio Fanti auch der Mathematiker und Physiker Bruno Barberis eine ausführliche Wahrscheinlichkeitsanalyse bezüglich der Echtheit des Turiner Grabtuchs durchgeführt.
+
+Was hat Bruno Barberis zur Wahrscheinlichkeitsanalyse gezeigt?
+
+Neben Giulio Fanti hat besonders Bruno Barberis, ein Physiker und ehemaliger Präsident des Internationalen Zentrums für Sindonologie (Centro Internazionale di Sindonologia) in Turin, zusammen mit Kollegen die Wahrscheinlichkeit analysiert, dass das Turiner Grabtuch eine Fälschung ist.
+
+Dabei verwendeten sie eine Art statistische Wahrscheinlichkeitsrechnung, um zu ermitteln, wie wahrscheinlich es sei, dass ein mittelalterlicher Künstler oder Fälscher rein zufällig oder gezielt sämtliche Eigenschaften des Grabtuchbildes korrekt und vollständig hätte erzeugen können.
+
+Die zentralen Argumente der Wahrscheinlichkeitsanalyse (Barberis u.a.):
+
+Bruno Barberis und seine Kollegen identifizierten mehrere unabhängige Merkmale des Tuchs, die für eine mittelalterliche Fälschung äußerst schwierig oder unmöglich wären. Dazu gehören:
+
+Realistische anatomische Merkmale
+
+Keine gebrochenen Beine
+
+Verwendung echter Blutspuren (Blutgruppe AB)
+
+Geißelungsspuren, die römischen Praktiken exakt entsprechen
+
+Dornenkronen-Wunden
+
+Negative und dreidimensionale Eigenschaften des Bildes
+
+Keine Mal- oder Farbpigmente
+
+Fehlen von Fehlern oder Korrekturspuren
+
+Extrem oberflächliche, selektive Faseroxidation
+
+Sie berechneten dann für jedes Merkmal, wie wahrscheinlich es ist, dass ein mittelalterlicher Künstler oder Fälscher (bewusst oder zufällig) jedes dieser Merkmale korrekt abbilden könnte, und multiplizierten die Wahrscheinlichkeiten miteinander.
+
+Ergebnis der Wahrscheinlichkeitsanalyse:
+
+Barberis und Kollegen kamen durch diese Berechnung zu einem Ergebnis, das zeigte, dass die Wahrscheinlichkeit, dass ein mittelalterlicher Künstler oder Fälscher alle diese Merkmale gleichzeitig zufällig oder absichtlich erzeugt hätte, praktisch null sei.
+
+Ein Beispiel zur Veranschaulichung (sinngemäß und vereinfacht):
+
+
+Wahrscheinlichkeit anatomische Präzision: gering (etwa 1:100)
+
+Wahrscheinlichkeit negative Bildeigenschaften zu erzeugen: sehr gering (etwa 1:1000)
+
+Wahrscheinlichkeit selektive Oxidation jeder zweiten Faser zu erzeugen: äußerst gering (z.B. 1:10.000 oder geringer)
+
+Wahrscheinlichkeit, keinerlei Pigmente zu verwenden: gering (z.B. 1:1000)
+
+Multipliziert man diese Wahrscheinlichkeiten, ergibt sich schnell eine extrem geringe Wahrscheinlichkeit, nahezu null.
+
+Was folgerten Barberis und andere daraus?
+
+Die zentrale Schlussfolgerung dieser Wahrscheinlichkeitsanalyse war, dass die Hypothese einer mittelalterlichen Fälschung äußerst unwahrscheinlich sei, wenn nicht sogar unmöglich. Barberis vertritt deshalb die Ansicht, dass die wahrscheinlichste Erklärung eine authentische Herkunft des Tuchs sei, bzw. dass zumindest kein bekannter mittelalterlicher Prozess existiert, der all diese Merkmale in dieser Genauigkeit hätte erzeugen können.
+
+Fazit zur Wahrscheinlichkeitsanalyse:
+
+Die Untersuchungen von Barberis ergänzen und unterstützen somit Fantis Thesen deutlich. Beide betonen, dass keine herkömmliche mittelalterliche Methode bekannt ist, um ein so komplexes und präzises Bild zu erzeugen. Diese Wahrscheinlichkeitsschätzungen zeigen eindrucksvoll, warum viele Forscher und Gläubige das Grabtuch als möglicherweise authentisch betrachten.
+
+Zusammenfassendes Fazit:
+
+Die genannten Punkte – von den nicht gebrochenen Beinen, über Pollenspuren und anatomische Genauigkeit, bis hin zu historischen Zusammenhängen, Blutuntersuchungen und der einzigartigen Bildentstehung – bilden insgesamt ein starkes Argumentationsnetz. Für viele Experten, darunter Giulio Fanti und Kollegen, sind diese Indizien überzeugende Hinweise darauf, dass das Grabtuch tatsächlich authentisch und mit der Kreuzigung Jesu Christi in Verbindung steht.
+
+Jetzt habe ich euch viel über das Tuch erzählt. Natürlich ist auch das kein Beweis, aber schon höchst interessant. Es gibt auf Youtube viele coole Dokumentationen dazu, also falls es dich interessiert, würde ich dir empfehlen, dich dort mal umzusehen. 
