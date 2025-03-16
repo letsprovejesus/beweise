@@ -2747,3 +2747,26 @@ Reliefs und Inschriften, die verschiedene Könige Israels erwähnen und Interakt
 Das Relief von Tiglat-Pileser III. (745–727 v. Chr.)
 
 Assyrische Inschrift und Relief, die die Deportation israelitischer Stämme dokumentieren, passend zu den Berichten im 2. Könige 15.
+
+---
+
+Die Hungersnotstele ist ein ägyptischer archäologischer Fund, der eine außergewöhnliche Parallele zu den Ereignissen des Alten Testaments aufweist:
+
+Was ist die Hungersnotstele?
+
+Die sogenannte Hungersnotstele (engl. Famine Stele) ist eine Felsinschrift, die auf der Nilinsel Sehel bei Assuan (Ägypten) gefunden wurde. Sie stammt vermutlich aus der ptolemäischen Zeit (ca. 3. Jh. v. Chr.), beschreibt aber Ereignisse, die bis in die Zeit des Alten Reichs Ägyptens (ca. 2700–2200 v. Chr.) zurückreichen sollen.
+
+Was steht auf der Hungersnotstele?
+
+Die Stele berichtet über eine siebenjährige Hungersnot, die während der Herrschaft des altägyptischen Pharaos Djoser (ca. 2670 v. Chr.) auftrat. Die Inschrift beschreibt, wie der Pharao den Gott Chnum anflehte, den Nil wieder ansteigen zu lassen, um die Hungersnot zu beenden.
+
+Verbindung zur Bibel:
+
+Die Beschreibung einer siebenjährigen Hungersnot ähnelt stark der bekannten Geschichte aus dem Alten Testament über die sieben Jahre Hungersnot in Ägypten zur Zeit Josephs (1. Mose 41). Dort wird ebenfalls eine siebenjährige Hungersnot erwähnt, die unter einem ägyptischen Pharao herrschte.
+
+Warum ist dieser Fund so bedeutsam?
+
+Zeigt historische Authentizität:
+Dass eine solche siebenjährige Hungersnot bereits in ägyptischen Quellen erwähnt wird, bestätigt indirekt, dass die biblische Schilderung historisch plausibel und keineswegs nur eine erfundene Geschichte ist.
+
+---
