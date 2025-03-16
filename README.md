@@ -2629,3 +2629,65 @@ Erst im 20. Jahrhundert entdeckte der Astronom Edwin Hubble, dass sich das Unive
 ---
 
 Die Bibel enthält mehrere erstaunlich genaue Hinweise auf naturwissenschaftliche Fakten, lange bevor diese durch moderne Wissenschaft und Technologie entdeckt oder bestätigt wurden. Kritiker sehen darin oft Zufälle oder poetische Formulierungen, während Gläubige und manche Wissenschaftler diese Beispiele als Beleg für die außergewöhnliche Tiefe und mögliche Inspiration der biblischen Texte ansehen.
+
+---
+
+# Historische Beweise, die das alte Testament bestätigen
+
+Tel-Dan-Stele („Haus Davids“-Inschrift)
+
+Bestätigt die historische Existenz des Königs David und seiner Dynastie (9. Jh. v. Chr.).
+
+---
+
+Mescha-Stele (Moabiterstein)
+
+Erwähnt den moabitischen König Mescha und seine Kriege gegen Israel, bestätigt Ereignisse aus 2. Könige 3 (9. Jh. v. Chr.).
+
+---
+
+Lachisch-Briefe (Ostraka)
+
+Dokumentieren die Belagerung der judäischen Stadt Lachisch durch die Babylonier, bestätigt durch Jeremia 34,7 (6. Jh. v. Chr.).
+
+---
+
+Hiskia-Tunnel und Siloah-Inschrift
+
+Bestätigt den Bau eines Wassertunnels durch König Hiskia in Jerusalem (2. Könige 20,20; 8. Jh. v. Chr.).
+
+---
+
+Die Schriftrollen vom Toten Meer (Qumran-Rollen)
+
+Enthalten die ältesten bekannten Manuskripte des Alten Testaments und belegen die genaue Überlieferung (2. Jh. v. Chr. bis 1. Jh. n. Chr.).
+
+---
+
+Silberrollen von Ketef Hinnom
+
+Enthalten den priesterlichen Segen (4. Mose 6,24–26), ältester bekannter biblischer Textfund (7. Jh. v. Chr.).
+
+---
+
+Schwarzer Obelisk von Salmanassar III.
+
+Zeigt König Jehu von Israel, wie er dem assyrischen König Salmanassar III. Tribut zahlt (2. Könige 10; 9. Jh. v. Chr.).
+
+---
+
+Tontafeln von Ebla
+
+Erwähnen Orte wie Sodom und Gomorra und bestätigen die Existenz biblischer Namen und Städte (ca. 2300 v. Chr.).
+
+---
+
+Die Bullae (Siegel) von Jerusalem
+
+Enthalten Namen biblischer Persönlichkeiten wie Baruch, den Schreiber des Propheten Jeremia (7.–6. Jh. v. Chr.).
+
+---
+
+Die ägyptische Merenptah-Stele
+
+Enthält die älteste außerbiblische Erwähnung Israels als Volk (ca. 1200 v. Chr.).
