@@ -2634,6 +2634,8 @@ Die Bibel enthält mehrere erstaunlich genaue Hinweise auf naturwissenschaftlich
 
 # Historische Beweise, die das alte Testament bestätigen
 
+Viele Menschen halten die Berichte des Alten Testaments für Mythen oder Erfindungen. Doch ich möchte euch jetzt zeigen, dass zahlreiche archäologische Funde belegen, dass es sich bei den Geschichten der Bibel um historische Tatsachen handelt. Hier wurde nichts von der Kirche verfälscht, sondern diese Ereignisse wurden unabhängig von der Bibel durch historische Funde bestätigt.
+
 Tel-Dan-Stele („Haus Davids“-Inschrift)
 
 Bestätigt die historische Existenz des Königs David und seiner Dynastie (9. Jh. v. Chr.).
