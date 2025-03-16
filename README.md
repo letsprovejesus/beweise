@@ -2367,3 +2367,75 @@ Sie bleibt aber nach wie vor einer von vielen Faktoren, die in der umfangreichen
 
 ---
 
+# Weitere interessante Fakten über das Tuch
+
+Nicht gebrochene Beine
+
+In der Bibel (Johannes 19,31–33) wird erwähnt, dass Jesus bei der Kreuzigung die Beine nicht gebrochen wurden, da er bereits tot war. Dies war ungewöhnlich, da Römer üblicherweise den Gekreuzigten die Beine brachen, um den Tod schneller herbeizuführen.
+
+Das Turiner Grabtuch zeigt deutlich einen Mann mit nicht gebrochenen Beinen, was genau mit diesem Detail der Bibel übereinstimmt.
+
+---
+
+Nagelwunden an Handgelenken statt Händen
+
+Die Wunden am Grabtuch erscheinen nicht in den Handflächen, wie oft in mittelalterlicher Kunst dargestellt, sondern eher an den Handgelenken. Moderne anatomische Studien haben ergeben, dass Nägel in der Handfläche das Gewicht des Körpers nicht halten könnten; eine Kreuzigung durch das Handgelenk hingegen wäre anatomisch realistisch.
+
+Diese Tatsache spricht gegen eine mittelalterliche Fälschung, da diese anatomischen Kenntnisse im Mittelalter unbekannt waren.
+
+---
+
+Dornenkrone-Spuren
+
+Das Grabtuch zeigt Verletzungen am Kopf, die durch eine Dornenkrone verursacht worden sein könnten. Eine Dornenkrone war jedoch keine übliche Praxis bei Kreuzigungen, sondern wird explizit nur bei der Kreuzigung Jesu beschrieben (z.B. Matthäus 27,29).
+
+---
+
+Geißelspuren (Geißelungsspuren)
+
+Das Tuch zeigt detaillierte Spuren einer Geißelung mit einem römischen Flagrum (eine römische Peitsche mit Metall- oder Knochensplittern):
+
+Diese Wunden stimmen genau mit historischen römischen Geißelmethoden überein und entsprechen genau den Verletzungen, wie sie bei einer römischen Folterung zu erwarten sind.
+
+---
+
+Seitenwunde
+
+Am Grabtuch ist eine deutliche Stichwunde in der Brustseite sichtbar, die perfekt zu der im Johannesevangelium beschriebenen Stichwunde (Johannes 19,34) passt, die Jesus nach seinem Tod mit einem Speer beigebracht wurde.
+
+Das Tuch zeigt ebenfalls, dass Blut und Flüssigkeit getrennt herausflossen, was medizinisch gesehen realistisch ist und im Johannesevangelium explizit erwähnt wird.
+
+---
+
+Blutspuren mit echtem menschlichem Blut (Blutgruppe AB)
+
+Untersuchungen zeigten, dass auf dem Grabtuch echtes menschliches Blut (mit Blutgruppe AB) vorhanden ist, und zwar ohne Spuren typischer Mal- oder Färbemittel:
+
+Ein mittelalterlicher Fälscher hätte wohl kaum echtes menschliches Blut verwendet, sondern eher Pigmente oder Farbstoffe.
+
+---
+
+Keine Verwesungsspuren
+
+Auf dem Tuch fehlen jegliche Hinweise auf Zersetzung oder Verwesung:
+
+Dies spricht für eine kurze Aufenthaltsdauer des Körpers im Tuch, was gut zur biblischen Beschreibung der Auferstehung nach drei Tagen passt.
+
+---
+
+Historische und kulturelle Übereinstimmung
+
+Der Typus der Wunden, das Vorgehen bei der Kreuzigung, und die Details, wie beispielsweise die Dornenkrone und das unverletzte Bein, stimmen historisch und kulturell exakt mit dem Bericht der Kreuzigung Jesu Christi im Neuen Testament überein.
+Solch detailliertes medizinisches und historisches Wissen wäre einem mittelalterlichen Fälscher kaum zugänglich gewesen.
+
+---
+
+Die ungewöhnlichen Eigenschaften des Bildes
+
+Das Bild hat dreidimensionale Informationen, ist extrem oberflächlich (nur Fasern an der Oberfläche sind verfärbt) und besitzt negative Bildeigenschaften. All diese Eigenschaften konnten erst mit moderner Technologie erkannt werden und wären für eine mittelalterliche Fälschung praktisch unmöglich nachzuahmen gewesen.
+Fazit zu diesen Argumenten:
+
+Diese genannten Merkmale und Details sprechen für viele Forscher und Gläubige dafür, dass es sich tatsächlich um das authentische Grabtuch Jesu Christi handeln könnte. Die genaue Übereinstimmung vieler medizinischer, anatomischer und historischer Einzelheiten mit der Beschreibung der Kreuzigung Jesu macht es für viele Anhänger äußerst unwahrscheinlich, dass ein mittelalterlicher Künstler oder Fälscher all diese Details zufällig oder bewusst perfekt hätte rekonstruieren können.
+
+---
+
